@@ -1,0 +1,1096 @@
+2018-02-20 14:18:51,090 - Travelservice -INFO - Browser Opened
+2018-02-20 14:18:51,550 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:19:02,767 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-20 14:19:09,322 - Travelservice -INFO - Album number4Album name Superfruit
+2018-02-20 14:19:13,700 - Travelservice -INFO - Album number7Album name Everything Everything
+2018-02-20 14:19:20,110 - Travelservice -INFO - Album number10Album name DJ Khaled
+2018-02-20 14:19:30,934 - Travelservice -INFO - Album number13Album name Lea Michele
+2018-02-20 14:19:36,913 - Travelservice -INFO - Album number16Album name Scouting for Girls
+2018-02-20 14:19:40,714 - Travelservice -INFO - 10 album Tested 
+2018-02-20 14:21:04,035 - Travelservice -INFO - Browser Opened
+2018-02-20 14:21:04,429 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:21:16,047 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-20 14:21:22,788 - Travelservice -INFO - Album number4Album name Superfruit
+2018-02-20 14:21:27,288 - Travelservice -INFO - Album number7Album name Everything Everything
+2018-02-20 14:21:33,221 - Travelservice -INFO - Album number10Album name DJ Khaled
+2018-02-20 14:21:45,375 - Travelservice -INFO - Album number13Album name Lea Michele
+2018-02-20 14:21:51,307 - Travelservice -INFO - Album number16Album name Scouting for Girls
+2018-02-20 14:21:56,727 - Travelservice -INFO - Album number19Album name Kings of Leon
+2018-02-20 14:22:02,370 - Travelservice -INFO - Album number22Album name Brian May + Kerry Ellis
+2018-02-20 14:22:09,540 - Travelservice -INFO - Album number25Album name Foster the People
+2018-02-20 14:22:15,782 - Travelservice -INFO - Album number28Album name Dams of the West
+2018-02-20 14:22:21,457 - Travelservice -INFO - Album number31Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-02-20 14:23:20,277 - Travelservice -INFO - Browser Opened
+2018-02-20 14:23:20,687 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:23:32,548 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 14:23:39,440 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-20 14:23:45,695 - Travelservice -INFO - Album number2Album name Sia
+2018-02-20 14:23:52,374 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-20 14:23:56,859 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-20 14:24:01,485 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-20 14:24:08,041 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-20 14:24:13,963 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-20 14:24:21,395 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-20 14:24:27,408 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-20 14:24:38,238 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-20 14:24:44,551 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-20 14:24:53,275 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-20 14:24:59,424 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-20 14:25:14,372 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7060: The target server failed to respond
+2018-02-20 14:25:14,373 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7060
+2018-02-20 14:25:30,959 - Travelservice -INFO - Browser Opened
+2018-02-20 14:25:31,301 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:25:42,236 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-20 14:25:50,378 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-20 14:25:56,617 - Travelservice -INFO - Album number15Album name Scouting for Girls
+2018-02-20 14:26:02,379 - Travelservice -INFO - Album number16Album name The Shins
+2018-02-20 14:26:08,598 - Travelservice -INFO - Album number17Album name Foo Fighters
+2018-02-20 14:26:14,931 - Travelservice -INFO - Album number18Album name Kings of Leon
+2018-02-20 14:26:20,835 - Travelservice -INFO - Album number19Album name COIN
+2018-02-20 14:26:27,025 - Travelservice -INFO - Album number20Album name CRX
+2018-02-20 14:26:32,664 - Travelservice -INFO - Album number21Album name Brian May + Kerry Ellis
+2018-02-20 14:26:39,215 - Travelservice -INFO - Album number22Album name David Bowie
+2018-02-20 14:26:42,581 - Travelservice -INFO - Album number23Album name Arcade Fire
+2018-02-20 14:26:49,830 - Travelservice -INFO - Album number24Album name Foster the People
+2018-02-20 14:26:56,195 - Travelservice -INFO - Album number25Album name John Mayer
+2018-02-20 14:27:02,502 - Travelservice -INFO - Album number26Album name DREAMCAR
+2018-02-20 14:27:08,686 - Travelservice -INFO - Album number27Album name Dams of the West
+2018-02-20 14:27:14,460 - Travelservice -INFO - Album number28Album name Various Artists
+2018-02-20 14:27:48,920 - Travelservice -INFO - Browser Opened
+2018-02-20 14:27:49,193 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:28:00,632 - Travelservice -INFO - Album number28Album name Various Artists
+2018-02-20 14:28:07,609 - Travelservice -INFO - Album number29Album name Marion Treupel-Franck
+2018-02-20 14:28:15,907 - Travelservice -INFO - Album number30Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-02-20 14:28:22,288 - Travelservice -INFO - Album number31Album name Natalie Dessay
+2018-02-20 14:28:30,152 - Travelservice -INFO - Album number32Album name 2CELLOS
+2018-02-20 14:28:37,577 - Travelservice -INFO - Album number33Album name Jonas Kaufmann
+2018-02-20 14:28:46,305 - Travelservice -INFO - Album number34Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
+2018-02-20 14:28:52,249 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7060: The target server failed to respond
+2018-02-20 14:28:52,250 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7060
+2018-02-20 14:28:53,794 - Travelservice -INFO - Album number35Album name The Piano Guys
+2018-02-20 14:29:00,856 - Travelservice -INFO - Album number36Album name Rudolf Buchbinder
+2018-02-20 14:29:07,369 - Travelservice -INFO - Album number37Album name Simone Dinnerstein
+2018-02-20 14:29:12,150 - Travelservice -INFO - Album number38Album name Tina Guo
+2018-02-20 14:29:19,382 - Travelservice -INFO - Album number39Album name Arcadi Volodos
+2018-02-20 14:29:51,196 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7061: The target server failed to respond
+2018-02-20 14:29:51,197 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7061
+2018-02-20 14:30:10,261 - Travelservice -INFO - Browser Opened
+2018-02-20 14:30:10,491 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:30:21,285 - Travelservice -INFO - Album number39Album name Arcadi Volodos
+2018-02-20 14:30:28,180 - Travelservice -INFO - Album number40Album name Sol Gabetta and Bertrand Chamayou
+2018-02-20 14:30:33,826 - Travelservice -INFO - Album number41Album name Baptiste Trotignon & Yosvany Terry
+2018-02-20 14:30:39,571 - Travelservice -INFO - Album number42Album name Bria Skonberg
+2018-02-20 14:30:46,396 - Travelservice -INFO - Album number43Album name The Bad Plus
+2018-02-20 14:30:52,388 - Travelservice -INFO - Album number44Album name Thelonious Monk
+2018-02-20 14:31:01,999 - Travelservice -INFO - Album number45Album name Preservation Hall Jazz Band
+2018-02-20 14:31:06,480 - Travelservice -INFO - Album number46Album name Weather Report
+2018-02-20 14:31:11,420 - Travelservice -INFO - Album number47Album name James Brandon Lewis
+2018-02-20 14:31:17,355 - Travelservice -INFO - Album number48Album name Duke Ellington & His Famous Orchestra
+2018-02-20 14:31:24,214 - Travelservice -INFO - Album number49Album name Theo Croker
+2018-02-20 14:31:31,100 - Travelservice -INFO - Album number50Album name Somi
+2018-02-20 14:31:38,027 - Travelservice -INFO - Album number51Album name Louis Armstrong
+2018-02-20 14:31:48,861 - Travelservice -INFO - Album number52Album name David Orlowsky Trio
+2018-02-20 14:31:55,405 - Travelservice -INFO - Album number53Album name Michael Jackson
+2018-02-20 14:32:03,598 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-20 14:32:03,598 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-20 14:32:21,573 - Travelservice -INFO - Browser Opened
+2018-02-20 14:32:21,598 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:32:32,449 - Travelservice -INFO - Album number53Album name Michael Jackson
+2018-02-20 14:32:41,560 - Travelservice -INFO - Album number54Album name Aretha Franklin
+2018-02-20 14:32:50,316 - Travelservice -INFO - Album number55Album name Bruce Springsteen
+2018-02-20 14:32:56,668 - Travelservice -INFO - Album number56Album name Frank Sinatra
+2018-02-20 14:33:05,300 - Travelservice -INFO - Album number57Album name George Michael
+2018-02-20 14:33:11,018 - Travelservice -INFO - Album number58Album name Bob Dylan
+2018-02-20 14:33:16,449 - Travelservice -INFO - Album number59Album name Aerosmith
+2018-02-20 14:33:21,359 - Travelservice -INFO - Album number60Album name Tony Bennett
+2018-02-20 14:33:27,645 - Travelservice -INFO - Album number61Album name Fleetwood Mac
+2018-02-20 14:33:36,666 - Travelservice -INFO - Album number62Album name Elvis Presley
+2018-02-20 14:33:42,976 - Travelservice -INFO - Album number63Album name Nina Simone
+2018-02-20 14:33:50,758 - Travelservice -INFO - Album number64Album name Whitney Houston
+2018-02-20 14:33:56,904 - Travelservice -INFO - Album number65Album name Barry Manilow
+2018-02-20 14:34:04,295 - Travelservice -INFO - Album number66Album name Jason Aldean
+2018-02-20 14:34:19,260 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-20 14:34:19,260 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-20 14:35:24,569 - Travelservice -INFO - Browser Opened
+2018-02-20 14:35:24,863 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:35:35,777 - Travelservice -INFO - Album number66Album name Jason Aldean
+2018-02-20 14:35:42,718 - Travelservice -INFO - Album number67Album name Ward Thomas
+2018-02-20 14:35:49,990 - Travelservice -INFO - Album number68Album name Maren Morris
+2018-02-20 14:35:55,893 - Travelservice -INFO - Album number69Album name Brad Paisley
+2018-02-20 14:36:03,568 - Travelservice -INFO - Album number70Album name Dolly Parton
+2018-02-20 14:36:09,797 - Travelservice -INFO - Album number71Album name Old Crow Medicine Show
+2018-02-20 14:36:18,236 - Travelservice -INFO - Album number72Album name Kenny Chesney
+2018-02-20 14:36:23,854 - Travelservice -INFO - Album number73Album name Old Dominion
+2018-02-20 14:36:30,038 - Travelservice -INFO - Album number74Album name Willie Nelson
+2018-02-20 14:36:36,673 - Travelservice -INFO - Album number75Album name Luke Combs
+2018-02-20 14:36:42,875 - Travelservice -INFO - Album number76Album name Miranda Lambert
+2018-02-20 14:36:53,202 - Travelservice -INFO - Album number77Album name Kelsea Ballerini
+2018-02-20 14:37:00,793 - Travelservice -INFO - Album number78Album name Shakira
+2018-02-20 14:37:16,447 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-20 14:37:16,448 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-20 14:38:23,455 - Travelservice -INFO - Browser Opened
+2018-02-20 14:38:23,794 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:38:34,601 - Travelservice -INFO - Album number78Album name Shakira
+2018-02-20 14:38:40,930 - Travelservice -INFO - Album number79Album name Silbermond
+2018-02-20 14:38:49,031 - Travelservice -INFO - Album number80Album name Giusy Ferreri
+2018-02-20 14:38:56,164 - Travelservice -INFO - Album number81Album name J_ust
+2018-02-20 14:39:02,034 - Travelservice -INFO - Album number82Album name Polock
+2018-02-20 14:39:07,569 - Travelservice -INFO - Album number83Album name Various Artists
+2018-02-20 14:39:19,112 - Travelservice -INFO - Album number84Album name Wizkid
+2018-02-20 14:39:25,467 - Travelservice -INFO - Album number85Album name J.Sheon
+2018-02-20 14:39:31,583 - Travelservice -INFO - Album number86Album name Julien Doré
+2018-02-20 14:39:38,756 - Travelservice -INFO - Album number87Album name Jay Chou
+2018-02-20 14:39:44,326 - Travelservice -INFO - Album number88Album name Marteria
+2018-02-20 14:39:50,768 - Travelservice -INFO - Album number89Album name Bob Marley & The Wailers
+2018-02-20 14:39:58,790 - Travelservice -INFO - Album number90Album name Amy Faithe
+2018-02-20 14:40:32,202 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-20 14:40:32,203 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-20 14:40:59,141 - Travelservice -INFO - Browser Opened
+2018-02-20 14:40:59,385 - Travelservice -INFO - Implicit wait given
+2018-02-20 14:41:11,539 - Travelservice -INFO - Album number90Album name Amy Faithe
+2018-02-20 14:41:16,158 - Travelservice -INFO - Album number91Album name Dyan Garris
+2018-02-20 14:41:22,227 - Travelservice -INFO - Album number92Album name David Wells
+2018-02-20 14:41:28,114 - Travelservice -INFO - Album number93Album name Anaamaly
+2018-02-20 14:41:34,608 - Travelservice -INFO - Album number94Album name Art Patience
+2018-02-20 14:41:40,095 - Travelservice -INFO - Album number95Album name Gary Schmidt
+2018-02-20 14:41:47,062 - Travelservice -INFO - Album number96Album name Ben Carroll
+2018-02-20 14:41:53,438 - Travelservice -INFO - Album number97Album name Jeff Pearce
+2018-02-20 14:41:58,276 - Travelservice -INFO - Album number98Album name John Calvert
+2018-02-20 14:42:04,489 - Travelservice -INFO - Album number99Album name Darin Mahoney
+2018-02-20 14:42:09,151 - Travelservice -INFO - Album number100Album name Michelle Qureshi
+2018-02-20 14:42:16,177 - Travelservice -INFO - Album number101Album name Lisa Swerdlow
+2018-02-20 16:46:52,266 - Travelservice -INFO - Browser Opened
+2018-02-20 16:46:52,571 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:47:43,098 - Travelservice -INFO - Browser Opened
+2018-02-20 16:47:43,141 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:49:01,411 - Travelservice -INFO - Browser Opened
+2018-02-20 16:49:01,647 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:49:43,058 - Travelservice -INFO - Browser Opened
+2018-02-20 16:49:43,238 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:50:53,124 - Travelservice -INFO - Browser Opened
+2018-02-20 16:50:53,147 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:51:02,478 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 16:52:08,718 - Travelservice -INFO - Browser Opened
+2018-02-20 16:52:08,976 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:52:18,588 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 16:54:58,395 - Travelservice -INFO - Browser Opened
+2018-02-20 16:54:58,437 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:55:07,647 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 16:57:12,162 - Travelservice -INFO - Browser Opened
+2018-02-20 16:57:12,381 - Travelservice -INFO - Implicit wait given
+2018-02-20 16:57:22,177 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 16:59:02,733 - Travelservice -INFO - Browser Opened
+2018-02-20 16:59:02,995 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:00:40,576 - Travelservice -INFO - Browser Opened
+2018-02-20 17:00:40,843 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:00:51,568 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 17:05:12,622 - Travelservice -INFO - Browser Opened
+2018-02-20 17:05:12,964 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:05:45,255 - Travelservice -INFO - Browser Opened
+2018-02-20 17:05:45,296 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:05:54,728 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 17:07:44,897 - Travelservice -INFO - Browser Opened
+2018-02-20 17:07:45,124 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:07:54,504 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 17:08:36,001 - Travelservice -INFO - Browser Opened
+2018-02-20 17:08:36,294 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:08:45,568 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 17:09:34,959 - Travelservice -INFO - Browser Opened
+2018-02-20 17:09:34,991 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:09:44,678 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 17:10:32,454 - Travelservice -INFO - Browser Opened
+2018-02-20 17:10:32,759 - Travelservice -INFO - Implicit wait given
+2018-02-20 17:10:43,472 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-20 17:10:50,398 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-20 17:10:56,067 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 10:59:01,668 - Travelservice -INFO - Browser Opened
+2018-02-21 10:59:01,888 - Travelservice -INFO - Implicit wait given
+2018-02-21 10:59:11,614 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:02:22,540 - Travelservice -INFO - Browser Opened
+2018-02-21 11:02:22,817 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:02:32,116 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:05:15,789 - Travelservice -INFO - Browser Opened
+2018-02-21 11:05:15,833 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:05:25,305 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:15:01,976 - Travelservice -INFO - Browser Opened
+2018-02-21 11:15:02,351 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:17:46,543 - Travelservice -INFO - Browser Opened
+2018-02-21 11:17:46,571 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:18:16,956 - Travelservice -INFO - Browser Opened
+2018-02-21 11:18:17,044 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:18:26,778 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:21:16,745 - Travelservice -INFO - Browser Opened
+2018-02-21 11:21:17,023 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:21:40,413 - Travelservice -INFO - Browser Opened
+2018-02-21 11:21:40,658 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:21:50,182 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:22:08,594 - Travelservice -INFO - Browser Opened
+2018-02-21 11:22:08,618 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:22:18,049 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:28:53,470 - Travelservice -INFO - Browser Opened
+2018-02-21 11:28:53,747 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:29:15,552 - Travelservice -INFO - Browser Opened
+2018-02-21 11:29:15,869 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:29:25,492 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:30:18,283 - Travelservice -INFO - Browser Opened
+2018-02-21 11:30:18,513 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:30:28,478 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:31:28,939 - Travelservice -INFO - Browser Opened
+2018-02-21 11:31:29,211 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:31:39,361 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:38:09,076 - Travelservice -INFO - Browser Opened
+2018-02-21 11:38:09,367 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:38:30,857 - Travelservice -INFO - Browser Opened
+2018-02-21 11:38:30,907 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:38:40,535 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:40:40,791 - Travelservice -INFO - Browser Opened
+2018-02-21 11:40:41,074 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:40:50,720 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:42:44,317 - Travelservice -INFO - Browser Opened
+2018-02-21 11:42:44,643 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:43:48,122 - Travelservice -INFO - Browser Opened
+2018-02-21 11:43:48,392 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:58:29,360 - Travelservice -INFO - Browser Opened
+2018-02-21 11:58:29,378 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:58:53,229 - Travelservice -INFO - Browser Opened
+2018-02-21 11:58:53,535 - Travelservice -INFO - Implicit wait given
+2018-02-21 11:59:03,037 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 11:59:09,521 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 11:59:14,904 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 11:59:21,120 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 12:03:45,181 - Travelservice -INFO - Browser Opened
+2018-02-21 12:03:45,206 - Travelservice -INFO - Implicit wait given
+2018-02-21 12:03:54,478 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 12:04:00,793 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 12:04:06,412 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 12:04:12,937 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 12:04:17,712 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-21 12:04:22,042 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-21 12:04:28,619 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-21 12:04:34,701 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-21 12:04:42,084 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-21 12:04:47,936 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-21 12:04:58,797 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-21 12:05:05,261 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-21 12:05:13,671 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-21 12:05:19,461 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-21 12:05:28,179 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-21 12:06:47,877 - Travelservice -INFO - Browser Opened
+2018-02-21 12:06:48,086 - Travelservice -INFO - Implicit wait given
+2018-02-21 12:06:57,181 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 12:07:03,795 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 12:07:09,190 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 12:07:15,356 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 12:07:19,554 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-21 12:38:02,364 - Travelservice -INFO - Browser Opened
+2018-02-21 12:38:02,392 - Travelservice -INFO - Implicit wait given
+2018-02-21 12:38:27,377 - Travelservice -INFO - Browser Opened
+2018-02-21 12:38:27,721 - Travelservice -INFO - Implicit wait given
+2018-02-21 12:38:37,252 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 12:38:43,633 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 12:38:49,225 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 12:38:55,747 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 12:39:00,288 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-21 12:39:04,490 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-21 12:39:10,809 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-21 12:39:16,859 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-21 12:39:23,668 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-21 12:39:29,426 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-21 12:39:39,346 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-21 12:39:45,362 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-21 12:39:53,409 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-21 12:39:58,952 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-21 12:41:19,748 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-21 12:41:19,749 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-21 12:46:57,560 - Travelservice -INFO - Browser Opened
+2018-02-21 12:46:57,584 - Travelservice -INFO - Implicit wait given
+2018-02-21 12:47:16,433 - Travelservice -INFO - Browser Opened
+2018-02-21 12:47:16,471 - Travelservice -INFO - Implicit wait given
+2018-02-21 12:47:26,148 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 12:47:32,722 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 12:47:38,170 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 14:18:36,051 - Travelservice -INFO - Browser Opened
+2018-02-21 14:18:36,345 - Travelservice -INFO - Implicit wait given
+2018-02-21 14:18:42,063 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7056: The target server failed to respond
+2018-02-21 14:18:42,068 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7056
+2018-02-21 14:18:46,326 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 14:19:07,210 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 14:19:22,217 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 14:19:39,959 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 14:19:51,017 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-21 14:20:02,222 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-21 14:20:20,112 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-21 14:20:37,055 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-21 14:20:59,061 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-21 14:21:15,287 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-21 14:21:47,785 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-21 14:22:05,675 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-21 14:22:31,346 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-21 14:22:47,488 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-21 14:24:19,164 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-21 14:24:19,164 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-21 14:38:44,897 - Travelservice -INFO - Browser Opened
+2018-02-21 14:38:45,168 - Travelservice -INFO - Implicit wait given
+2018-02-21 14:38:55,104 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 14:39:01,659 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 14:39:07,193 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 14:39:13,678 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 14:39:18,302 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-21 14:39:22,441 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-21 14:39:28,768 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-21 14:39:34,575 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-21 14:39:41,816 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-21 14:39:47,662 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-21 14:39:58,287 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-21 14:40:04,454 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-21 14:40:12,644 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-21 14:40:18,394 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-21 14:40:28,963 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-21 14:43:43,642 - Travelservice -INFO - Browser Opened
+2018-02-21 14:43:43,892 - Travelservice -INFO - Implicit wait given
+2018-02-21 14:43:53,434 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 14:44:00,036 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 14:44:00,314 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7056: The target server failed to respond
+2018-02-21 14:44:00,314 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7056
+2018-02-21 14:44:01,500 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2018-02-21 14:44:01,500 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2018-02-21 16:21:57,674 - Travelservice -INFO - Browser Opened
+2018-02-21 16:21:57,698 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:22:52,597 - Travelservice -INFO - Browser Opened
+2018-02-21 16:22:52,618 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:27:51,991 - Travelservice -INFO - Browser Opened
+2018-02-21 16:27:52,278 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:33:49,108 - Travelservice -INFO - Browser Opened
+2018-02-21 16:33:49,373 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:34:20,034 - Travelservice -INFO - Browser Opened
+2018-02-21 16:34:20,298 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:35:22,505 - Travelservice -INFO - Browser Opened
+2018-02-21 16:35:22,829 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:36:19,833 - Travelservice -INFO - Browser Opened
+2018-02-21 16:36:19,851 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:36:31,741 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7056: The target server failed to respond
+2018-02-21 16:36:31,741 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7056
+2018-02-21 16:40:06,023 - Travelservice -INFO - Browser Opened
+2018-02-21 16:40:06,389 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:40:16,904 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 16:45:49,166 - Travelservice -INFO - Browser Opened
+2018-02-21 16:45:49,463 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:46:00,380 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 16:46:08,813 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 16:46:15,422 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 16:46:23,612 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 16:50:55,898 - Travelservice -INFO - Browser Opened
+2018-02-21 16:50:55,931 - Travelservice -INFO - Implicit wait given
+2018-02-21 16:51:05,967 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-21 16:51:14,121 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-21 16:51:20,840 - Travelservice -INFO - Album number2Album name Sia
+2018-02-21 16:51:28,677 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-21 16:51:33,658 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-21 16:51:38,547 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-21 16:51:47,185 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-21 16:51:54,551 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-21 16:52:03,131 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-21 16:52:09,729 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-21 16:52:22,984 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-21 16:52:30,444 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-21 16:52:40,980 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-21 16:52:48,697 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-22 09:32:33,032 - Travelservice -INFO - Browser Opened
+2018-02-22 09:32:33,038 - Travelservice -INFO - Implicit wait given
+2018-02-22 09:46:08,415 - Travelservice -INFO - Browser Opened
+2018-02-22 09:46:08,422 - Travelservice -INFO - Implicit wait given
+2018-02-22 09:46:13,695 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 09:46:19,913 - Travelservice -INFO - Album number1Album name 
+2018-02-22 09:46:24,291 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 09:46:27,866 - Travelservice -INFO - Album number3Album name 
+2018-02-22 09:46:30,485 - Travelservice -INFO - Album number4Album name 
+2018-02-22 09:46:33,219 - Travelservice -INFO - Album number5Album name 
+2018-02-22 09:46:36,348 - Travelservice -INFO - Album number6Album name 
+2018-02-22 09:46:39,389 - Travelservice -INFO - Album number7Album name 
+2018-02-22 09:46:43,027 - Travelservice -INFO - Album number8Album name 
+2018-02-22 09:46:46,160 - Travelservice -INFO - Album number9Album name 
+2018-02-22 09:46:50,530 - Travelservice -INFO - Album number10Album name 
+2018-02-22 09:46:53,834 - Travelservice -INFO - Album number11Album name 
+2018-02-22 09:46:57,837 - Travelservice -INFO - Album number12Album name 
+2018-02-22 09:47:00,792 - Travelservice -INFO - Album number13Album name 
+2018-02-22 09:47:05,055 - Travelservice -INFO - Album number14Album name 
+2018-02-22 09:47:08,316 - Travelservice -INFO - Album number15Album name 
+2018-02-22 09:47:11,157 - Travelservice -INFO - Album number16Album name 
+2018-02-22 09:47:14,284 - Travelservice -INFO - Album number17Album name 
+2018-02-22 09:47:17,425 - Travelservice -INFO - Album number18Album name 
+2018-02-22 09:47:20,336 - Travelservice -INFO - Album number19Album name 
+2018-02-22 09:47:23,448 - Travelservice -INFO - Album number20Album name 
+2018-02-22 09:47:26,547 - Travelservice -INFO - Album number21Album name 
+2018-02-22 09:47:29,834 - Travelservice -INFO - Album number22Album name David Bowie
+2018-02-22 09:47:32,165 - Travelservice -INFO - Album number23Album name 
+2018-02-22 09:47:35,373 - Travelservice -INFO - Album number24Album name 
+2018-02-22 09:47:38,457 - Travelservice -INFO - Album number25Album name 
+2018-02-22 09:47:41,565 - Travelservice -INFO - Album number26Album name 
+2018-02-22 09:47:44,724 - Travelservice -INFO - Album number27Album name 
+2018-02-22 09:47:47,594 - Travelservice -INFO - Album number28Album name 
+2018-02-22 09:47:50,823 - Travelservice -INFO - Album number29Album name 
+2018-02-22 09:47:54,267 - Travelservice -INFO - Album number30Album name 
+2018-02-22 09:47:57,083 - Travelservice -INFO - Album number31Album name 
+2018-02-22 09:48:03,435 - Travelservice -INFO - Album number32Album name 
+2018-02-22 09:48:06,786 - Travelservice -INFO - Album number33Album name 
+2018-02-22 09:48:10,557 - Travelservice -INFO - Album number34Album name 
+2018-02-22 09:48:16,943 - Travelservice -INFO - Album number35Album name 
+2018-02-22 09:48:20,067 - Travelservice -INFO - Album number36Album name 
+2018-02-22 09:48:23,217 - Travelservice -INFO - Album number37Album name 
+2018-02-22 09:48:25,608 - Travelservice -INFO - Album number38Album name 
+2018-02-22 09:48:29,135 - Travelservice -INFO - Album number39Album name 
+2018-02-22 09:48:32,258 - Travelservice -INFO - Album number40Album name 
+2018-02-22 09:48:34,963 - Travelservice -INFO - Album number41Album name 
+2018-02-22 09:48:37,832 - Travelservice -INFO - Album number42Album name 
+2018-02-22 09:48:40,935 - Travelservice -INFO - Album number43Album name 
+2018-02-22 09:48:43,973 - Travelservice -INFO - Album number44Album name 
+2018-02-22 09:48:48,055 - Travelservice -INFO - Album number45Album name 
+2018-02-22 09:48:50,628 - Travelservice -INFO - Album number46Album name 
+2018-02-22 09:48:53,370 - Travelservice -INFO - Album number47Album name 
+2018-02-22 09:48:56,206 - Travelservice -INFO - Album number48Album name Duke Ellington & His Famous Orchestra
+2018-02-22 09:48:59,327 - Travelservice -INFO - Album number49Album name 
+2018-02-22 09:49:02,586 - Travelservice -INFO - Album number50Album name 
+2018-02-22 09:49:06,012 - Travelservice -INFO - Album number51Album name 
+2018-02-22 09:49:10,929 - Travelservice -INFO - Album number52Album name 
+2018-02-22 09:49:13,952 - Travelservice -INFO - Album number53Album name 
+2018-02-22 09:49:16,946 - Travelservice -INFO - Album number54Album name 
+2018-02-22 09:49:21,147 - Travelservice -INFO - Album number55Album name 
+2018-02-22 09:49:24,227 - Travelservice -INFO - Album number56Album name 
+2018-02-22 09:49:28,093 - Travelservice -INFO - Album number57Album name 
+2018-02-22 09:49:30,979 - Travelservice -INFO - Album number58Album name 
+2018-02-22 09:49:33,830 - Travelservice -INFO - Album number59Album name 
+2018-02-22 09:49:36,586 - Travelservice -INFO - Album number60Album name 
+2018-02-22 09:49:39,759 - Travelservice -INFO - Album number61Album name 
+2018-02-22 09:49:44,735 - Travelservice -INFO - Album number62Album name 
+2018-02-22 09:49:47,878 - Travelservice -INFO - Album number63Album name 
+2018-02-22 09:49:51,336 - Travelservice -INFO - Album number64Album name 
+2018-02-22 09:49:54,219 - Travelservice -INFO - Album number65Album name 
+2018-02-22 09:49:57,742 - Travelservice -INFO - Album number66Album name 
+2018-02-22 09:50:01,218 - Travelservice -INFO - Album number67Album name 
+2018-02-22 09:50:04,693 - Travelservice -INFO - Album number68Album name 
+2018-02-22 09:50:08,879 - Travelservice -INFO - Album number69Album name 
+2018-02-22 09:50:12,466 - Travelservice -INFO - Album number70Album name 
+2018-02-22 09:50:15,556 - Travelservice -INFO - Album number71Album name 
+2018-02-22 09:50:18,880 - Travelservice -INFO - Album number72Album name 
+2018-02-22 09:50:21,881 - Travelservice -INFO - Album number73Album name 
+2018-02-22 09:50:25,185 - Travelservice -INFO - Album number74Album name 
+2018-02-22 09:50:28,663 - Travelservice -INFO - Album number75Album name 
+2018-02-22 09:50:31,908 - Travelservice -INFO - Album number76Album name 
+2018-02-22 09:50:36,385 - Travelservice -INFO - Album number77Album name 
+2018-02-22 09:50:39,953 - Travelservice -INFO - Album number78Album name 
+2018-02-22 09:50:43,020 - Travelservice -INFO - Album number79Album name 
+2018-02-22 09:50:46,797 - Travelservice -INFO - Album number80Album name 
+2018-02-22 09:50:50,093 - Travelservice -INFO - Album number81Album name 
+2018-02-22 09:50:53,183 - Travelservice -INFO - Album number82Album name 
+2018-02-22 09:50:56,350 - Travelservice -INFO - Album number83Album name 
+2018-02-22 09:51:01,156 - Travelservice -INFO - Album number84Album name 
+2018-02-22 09:51:04,412 - Travelservice -INFO - Album number85Album name 
+2018-02-22 09:51:07,463 - Travelservice -INFO - Album number86Album name 
+2018-02-22 09:51:10,753 - Travelservice -INFO - Album number87Album name 
+2018-02-22 09:51:13,486 - Travelservice -INFO - Album number88Album name 
+2018-02-22 09:51:16,838 - Travelservice -INFO - Album number89Album name 
+2018-02-22 09:51:20,262 - Travelservice -INFO - Album number90Album name 
+2018-02-22 09:51:22,863 - Travelservice -INFO - Album number91Album name 
+2018-02-22 09:51:25,841 - Travelservice -INFO - Album number92Album name 
+2018-02-22 09:51:28,818 - Travelservice -INFO - Album number93Album name 
+2018-02-22 09:51:32,059 - Travelservice -INFO - Album number94Album name 
+2018-02-22 09:51:34,754 - Travelservice -INFO - Album number95Album name 
+2018-02-22 09:51:37,981 - Travelservice -INFO - Album number96Album name 
+2018-02-22 09:51:40,986 - Travelservice -INFO - Album number97Album name 
+2018-02-22 09:51:43,583 - Travelservice -INFO - Album number98Album name 
+2018-02-22 09:51:46,686 - Travelservice -INFO - Album number99Album name 
+2018-02-22 09:51:49,458 - Travelservice -INFO - Album number100Album name Michelle Qureshi
+2018-02-22 09:51:52,923 - Travelservice -INFO - Album number101Album name 
+2018-02-22 10:00:52,937 - Travelservice -INFO - Browser Opened
+2018-02-22 10:00:52,943 - Travelservice -INFO - Implicit wait given
+2018-02-22 10:00:57,763 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 10:00:57,779 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 10:02:30,860 - Travelservice -INFO - Browser Opened
+2018-02-22 10:02:30,867 - Travelservice -INFO - Implicit wait given
+2018-02-22 10:02:35,361 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 10:02:41,195 - Travelservice -INFO - Album number1Album name 
+2018-02-22 10:02:45,453 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 10:02:49,181 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 10:02:51,854 - Travelservice -INFO - Album number4Album name 
+2018-02-22 10:02:54,461 - Travelservice -INFO - Album number5Album name 
+2018-02-22 10:02:57,594 - Travelservice -INFO - Album number6Album name 
+2018-02-22 10:03:00,742 - Travelservice -INFO - Album number7Album name 
+2018-02-22 10:04:48,151 - Travelservice -INFO - Browser Opened
+2018-02-22 10:04:48,158 - Travelservice -INFO - Implicit wait given
+2018-02-22 10:04:53,990 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 10:05:00,222 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 10:05:04,883 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 10:05:08,833 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 10:05:11,893 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-22 10:05:15,010 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-22 11:24:28,026 - Travelservice -INFO - Browser Opened
+2018-02-22 11:24:28,032 - Travelservice -INFO - Implicit wait given
+2018-02-22 11:25:10,909 - Travelservice -INFO - Browser Opened
+2018-02-22 11:25:10,920 - Travelservice -INFO - Implicit wait given
+2018-02-22 11:25:16,619 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 11:25:20,546 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 11:25:24,026 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 11:57:08,527 - Travelservice -INFO - Browser Opened
+2018-02-22 11:57:08,534 - Travelservice -INFO - Implicit wait given
+2018-02-22 11:58:06,583 - Travelservice -INFO - Browser Opened
+2018-02-22 11:58:06,589 - Travelservice -INFO - Implicit wait given
+2018-02-22 11:58:12,751 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 11:58:18,415 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 11:58:23,214 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 11:58:23,533 - Travelservice -INFO - http://ifd.aero/qsa121701102ma.mp3 - Not Found - 404
+2018-02-22 11:58:26,706 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 11:58:29,407 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-22 11:58:32,211 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-22 12:01:24,791 - Travelservice -INFO - Browser Opened
+2018-02-22 12:01:24,797 - Travelservice -INFO - Implicit wait given
+2018-02-22 12:01:31,474 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 12:01:36,912 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 12:01:41,662 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 12:01:42,017 - Travelservice -INFO - http://ifd.aero/qsa121701102ma.mp3 - Not Found - 404
+2018-02-22 12:01:45,398 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 12:01:48,417 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-22 12:01:51,519 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-22 12:01:55,003 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-22 12:01:58,492 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-22 12:02:02,424 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-22 12:02:05,930 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-22 12:02:11,202 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-22 12:02:14,882 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-22 12:02:19,290 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-22 12:02:22,649 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-22 12:02:26,949 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-22 12:02:30,429 - Travelservice -INFO - Album number15Album name Scouting for Girls
+2018-02-22 12:02:33,800 - Travelservice -INFO - Album number16Album name The Shins
+2018-02-22 12:02:37,120 - Travelservice -INFO - Album number17Album name Foo Fighters
+2018-02-22 12:02:40,596 - Travelservice -INFO - Album number18Album name Kings of Leon
+2018-02-22 12:02:43,833 - Travelservice -INFO - Album number19Album name COIN
+2018-02-22 12:02:47,217 - Travelservice -INFO - Album number20Album name CRX
+2018-02-22 12:02:50,596 - Travelservice -INFO - Album number21Album name Brian May + Kerry Ellis
+2018-02-22 12:02:54,275 - Travelservice -INFO - Album number22Album name David Bowie
+2018-02-22 12:02:56,960 - Travelservice -INFO - Album number23Album name Arcade Fire
+2018-02-22 12:03:00,598 - Travelservice -INFO - Album number24Album name Foster the People
+2018-02-22 12:03:03,993 - Travelservice -INFO - Album number25Album name John Mayer
+2018-02-22 12:03:07,739 - Travelservice -INFO - Album number26Album name DREAMCAR
+2018-02-22 12:03:11,318 - Travelservice -INFO - Album number27Album name Dams of the West
+2018-02-22 12:03:14,514 - Travelservice -INFO - Album number28Album name Various Artists
+2018-02-22 12:03:18,076 - Travelservice -INFO - Album number29Album name Marion Treupel-Franck
+2018-02-22 12:03:22,033 - Travelservice -INFO - Album number30Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-02-22 12:03:25,309 - Travelservice -INFO - Album number31Album name Natalie Dessay
+2018-02-22 12:03:29,358 - Travelservice -INFO - Album number32Album name 2CELLOS
+2018-02-22 12:03:33,239 - Travelservice -INFO - Album number33Album name Jonas Kaufmann
+2018-02-22 12:03:37,365 - Travelservice -INFO - Album number34Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
+2018-02-22 12:03:41,004 - Travelservice -INFO - Album number35Album name The Piano Guys
+2018-02-22 12:03:44,657 - Travelservice -INFO - Album number36Album name Rudolf Buchbinder
+2018-02-22 12:03:48,222 - Travelservice -INFO - Album number37Album name Simone Dinnerstein
+2018-02-22 12:03:50,982 - Travelservice -INFO - Album number38Album name Tina Guo
+2018-02-22 12:03:54,788 - Travelservice -INFO - Album number39Album name Arcadi Volodos
+2018-02-22 12:03:58,764 - Travelservice -INFO - Album number40Album name Sol Gabetta and Bertrand Chamayou
+2018-02-22 12:04:01,924 - Travelservice -INFO - Album number41Album name Baptiste Trotignon & Yosvany Terry
+2018-02-22 12:04:05,193 - Travelservice -INFO - Album number42Album name Bria Skonberg
+2018-02-22 12:04:08,957 - Travelservice -INFO - Album number43Album name The Bad Plus
+2018-02-22 12:04:12,543 - Travelservice -INFO - Album number44Album name Thelonious Monk
+2018-02-22 12:04:17,319 - Travelservice -INFO - Album number45Album name Preservation Hall Jazz Band
+2018-02-22 12:04:20,175 - Travelservice -INFO - Album number46Album name Weather Report
+2018-02-22 12:04:23,374 - Travelservice -INFO - Album number47Album name James Brandon Lewis
+2018-02-22 12:04:26,828 - Travelservice -INFO - Album number48Album name Duke Ellington & His Famous Orchestra
+2018-02-22 12:04:30,620 - Travelservice -INFO - Album number49Album name Theo Croker
+2018-02-22 12:04:34,209 - Travelservice -INFO - Album number50Album name Somi
+2018-02-22 12:04:38,024 - Travelservice -INFO - Album number51Album name Louis Armstrong
+2018-02-22 12:04:43,386 - Travelservice -INFO - Album number52Album name David Orlowsky Trio
+2018-02-22 12:04:47,036 - Travelservice -INFO - Album number53Album name Michael Jackson
+2018-02-22 12:04:50,741 - Travelservice -INFO - Album number54Album name Aretha Franklin
+2018-02-22 12:04:55,773 - Travelservice -INFO - Album number55Album name Bruce Springsteen
+2018-02-22 12:04:59,302 - Travelservice -INFO - Album number56Album name Frank Sinatra
+2018-02-22 12:05:03,762 - Travelservice -INFO - Album number57Album name George Michael
+2018-02-22 12:05:07,091 - Travelservice -INFO - Album number58Album name Bob Dylan
+2018-02-22 12:05:10,399 - Travelservice -INFO - Album number59Album name Aerosmith
+2018-02-22 12:05:13,555 - Travelservice -INFO - Album number60Album name Tony Bennett
+2018-02-22 12:05:17,206 - Travelservice -INFO - Album number61Album name Fleetwood Mac
+2018-02-22 12:05:21,678 - Travelservice -INFO - Album number62Album name Elvis Presley
+2018-02-22 12:05:24,936 - Travelservice -INFO - Album number63Album name Nina Simone
+2018-02-22 12:05:29,111 - Travelservice -INFO - Album number64Album name Whitney Houston
+2018-02-22 12:05:32,444 - Travelservice -INFO - Album number65Album name Barry Manilow
+2018-02-22 12:05:36,284 - Travelservice -INFO - Album number66Album name Jason Aldean
+2018-02-22 12:05:40,346 - Travelservice -INFO - Album number67Album name Ward Thomas
+2018-02-22 12:05:44,314 - Travelservice -INFO - Album number68Album name Maren Morris
+2018-02-22 12:05:47,862 - Travelservice -INFO - Album number69Album name Brad Paisley
+2018-02-22 12:05:52,227 - Travelservice -INFO - Album number70Album name Dolly Parton
+2018-02-22 12:05:56,022 - Travelservice -INFO - Album number71Album name Old Crow Medicine Show
+2018-02-22 12:05:59,905 - Travelservice -INFO - Album number72Album name Kenny Chesney
+2018-02-22 12:06:03,271 - Travelservice -INFO - Album number73Album name Old Dominion
+2018-02-22 12:06:06,868 - Travelservice -INFO - Album number74Album name Willie Nelson
+2018-02-22 12:06:10,677 - Travelservice -INFO - Album number75Album name Luke Combs
+2018-02-22 12:06:15,567 - Travelservice -INFO - Album number76Album name Miranda Lambert
+2018-02-22 12:06:21,494 - Travelservice -INFO - Album number77Album name Kelsea Ballerini
+2018-02-22 12:06:25,933 - Travelservice -INFO - Album number78Album name Shakira
+2018-02-22 12:06:29,728 - Travelservice -INFO - Album number79Album name Silbermond
+2018-02-22 12:06:33,974 - Travelservice -INFO - Album number80Album name Giusy Ferreri
+2018-02-22 12:06:37,905 - Travelservice -INFO - Album number81Album name J_ust
+2018-02-22 12:14:46,746 - Travelservice -INFO - Browser Opened
+2018-02-22 12:14:46,753 - Travelservice -INFO - Implicit wait given
+2018-02-22 12:14:53,753 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 12:14:59,265 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 12:15:03,994 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 12:15:04,320 - Travelservice -INFO - http://ifd.aero/qsa121701102ma.mp3 - Not Found - 404
+2018-02-22 12:15:07,810 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 12:15:10,867 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-22 12:15:14,173 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-22 12:15:18,445 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-22 12:15:22,188 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-22 12:15:26,379 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-22 12:15:29,770 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-22 12:15:34,789 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-22 12:15:38,639 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-22 12:15:43,224 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-22 12:15:46,559 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-22 12:15:50,795 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-22 12:15:54,305 - Travelservice -INFO - Album number15Album name Scouting for Girls
+2018-02-22 12:15:57,479 - Travelservice -INFO - Album number16Album name The Shins
+2018-02-22 12:16:00,900 - Travelservice -INFO - Album number17Album name Foo Fighters
+2018-02-22 12:16:04,277 - Travelservice -INFO - Album number18Album name Kings of Leon
+2018-02-22 12:16:07,473 - Travelservice -INFO - Album number19Album name COIN
+2018-02-22 12:16:10,927 - Travelservice -INFO - Album number20Album name CRX
+2018-02-22 12:16:14,279 - Travelservice -INFO - Album number21Album name Brian May + Kerry Ellis
+2018-02-22 12:16:18,014 - Travelservice -INFO - Album number22Album name David Bowie
+2018-02-22 12:16:20,538 - Travelservice -INFO - Album number23Album name Arcade Fire
+2018-02-22 12:16:24,030 - Travelservice -INFO - Album number24Album name Foster the People
+2018-02-22 12:16:27,623 - Travelservice -INFO - Album number25Album name John Mayer
+2018-02-22 12:16:31,507 - Travelservice -INFO - Album number26Album name DREAMCAR
+2018-02-22 12:16:35,078 - Travelservice -INFO - Album number27Album name Dams of the West
+2018-02-22 12:16:38,464 - Travelservice -INFO - Album number28Album name Various Artists
+2018-02-22 12:16:42,259 - Travelservice -INFO - Album number29Album name Marion Treupel-Franck
+2018-02-22 12:16:46,537 - Travelservice -INFO - Album number30Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-02-22 12:16:50,018 - Travelservice -INFO - Album number31Album name Natalie Dessay
+2018-02-22 12:16:54,140 - Travelservice -INFO - Album number32Album name 2CELLOS
+2018-02-22 12:16:57,852 - Travelservice -INFO - Album number33Album name Jonas Kaufmann
+2018-02-22 12:17:01,943 - Travelservice -INFO - Album number34Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
+2018-02-22 12:17:05,722 - Travelservice -INFO - Album number35Album name The Piano Guys
+2018-02-22 12:17:09,399 - Travelservice -INFO - Album number36Album name Rudolf Buchbinder
+2018-02-22 12:17:12,816 - Travelservice -INFO - Album number37Album name Simone Dinnerstein
+2018-02-22 12:17:13,264 - Travelservice -INFO - http://ifd.aero/qsa121703404ma.mp3 - Not Found - 404
+2018-02-22 12:17:15,641 - Travelservice -INFO - Album number38Album name Tina Guo
+2018-02-22 12:17:19,396 - Travelservice -INFO - Album number39Album name Arcadi Volodos
+2018-02-22 12:17:23,113 - Travelservice -INFO - Album number40Album name Sol Gabetta and Bertrand Chamayou
+2018-02-22 12:17:26,415 - Travelservice -INFO - Album number41Album name Baptiste Trotignon & Yosvany Terry
+2018-02-22 12:17:29,677 - Travelservice -INFO - Album number42Album name Bria Skonberg
+2018-02-22 12:17:33,418 - Travelservice -INFO - Album number43Album name The Bad Plus
+2018-02-22 12:17:36,922 - Travelservice -INFO - Album number44Album name Thelonious Monk
+2018-02-22 12:17:37,609 - Travelservice -INFO - http://ifd.aero/qsa121704906ma.mp3 - Not Found - 404
+2018-02-22 12:17:42,027 - Travelservice -INFO - Album number45Album name Preservation Hall Jazz Band
+2018-02-22 12:17:45,030 - Travelservice -INFO - Album number46Album name Weather Report
+2018-02-22 12:17:48,125 - Travelservice -INFO - Album number47Album name James Brandon Lewis
+2018-02-22 12:17:51,414 - Travelservice -INFO - Album number48Album name Duke Ellington & His Famous Orchestra
+2018-02-22 12:17:54,885 - Travelservice -INFO - Album number49Album name Theo Croker
+2018-02-22 12:17:58,395 - Travelservice -INFO - Album number50Album name Somi
+2018-02-22 12:17:59,511 - Travelservice -INFO - http://ifd.aero/qsa121704710ma.mp3 - Not Found - 404
+2018-02-22 12:18:02,256 - Travelservice -INFO - Album number51Album name Louis Armstrong
+2018-02-22 12:18:07,801 - Travelservice -INFO - Album number52Album name David Orlowsky Trio
+2018-02-22 12:18:11,402 - Travelservice -INFO - Album number53Album name Michael Jackson
+2018-02-22 12:18:15,117 - Travelservice -INFO - Album number54Album name Aretha Franklin
+2018-02-22 12:18:19,906 - Travelservice -INFO - Album number55Album name Bruce Springsteen
+2018-02-22 12:18:23,396 - Travelservice -INFO - Album number56Album name Frank Sinatra
+2018-02-22 12:18:24,217 - Travelservice -INFO - http://ifd.aero/qsa121706007ma.mp3 - Not Found - 404
+2018-02-22 12:18:27,841 - Travelservice -INFO - Album number57Album name George Michael
+2018-02-22 12:18:31,202 - Travelservice -INFO - Album number58Album name Bob Dylan
+2018-02-22 12:18:34,451 - Travelservice -INFO - Album number59Album name Aerosmith
+2018-02-22 12:18:37,702 - Travelservice -INFO - Album number60Album name Tony Bennett
+2018-02-22 12:18:41,452 - Travelservice -INFO - Album number61Album name Fleetwood Mac
+2018-02-22 12:18:45,931 - Travelservice -INFO - Album number62Album name Elvis Presley
+2018-02-22 12:18:49,417 - Travelservice -INFO - Album number63Album name Nina Simone
+2018-02-22 12:18:53,371 - Travelservice -INFO - Album number64Album name Whitney Houston
+2018-02-22 12:18:56,725 - Travelservice -INFO - Album number65Album name Barry Manilow
+2018-02-22 12:19:00,667 - Travelservice -INFO - Album number66Album name Jason Aldean
+2018-02-22 12:19:04,805 - Travelservice -INFO - Album number67Album name Ward Thomas
+2018-02-22 12:19:08,924 - Travelservice -INFO - Album number68Album name Maren Morris
+2018-02-22 12:19:12,653 - Travelservice -INFO - Album number69Album name Brad Paisley
+2018-02-22 12:19:16,892 - Travelservice -INFO - Album number70Album name Dolly Parton
+2018-02-22 12:19:20,725 - Travelservice -INFO - Album number71Album name Old Crow Medicine Show
+2018-02-22 12:19:24,616 - Travelservice -INFO - Album number72Album name Kenny Chesney
+2018-02-22 12:19:28,006 - Travelservice -INFO - Album number73Album name Old Dominion
+2018-02-22 12:19:31,834 - Travelservice -INFO - Album number74Album name Willie Nelson
+2018-02-22 12:19:32,211 - Travelservice -INFO - http://ifd.aero/qsa121706803ma.mp3 - Not Found - 404
+2018-02-22 12:19:35,681 - Travelservice -INFO - Album number75Album name Luke Combs
+2018-02-22 12:19:39,385 - Travelservice -INFO - Album number76Album name Miranda Lambert
+2018-02-22 12:19:46,696 - Travelservice -INFO - Album number77Album name Kelsea Ballerini
+2018-02-22 12:19:50,881 - Travelservice -INFO - Album number78Album name Shakira
+2018-02-22 12:19:52,312 - Travelservice -INFO - http://ifd.aero/qsa121708013ma.mp3 - Not Found - 404
+2018-02-22 12:19:54,476 - Travelservice -INFO - Album number79Album name Silbermond
+2018-02-22 12:19:58,689 - Travelservice -INFO - Album number80Album name Giusy Ferreri
+2018-02-22 12:20:04,071 - Travelservice -INFO - Album number81Album name J_ust
+2018-02-22 12:20:04,850 - Travelservice -INFO - http://ifd.aero/qsa121708605ma.mp3 - Not Found - 404
+2018-02-22 12:20:08,083 - Travelservice -INFO - Album number82Album name Polock
+2018-02-22 12:20:11,471 - Travelservice -INFO - Album number83Album name Various Artists
+2018-02-22 12:20:16,697 - Travelservice -INFO - Album number84Album name Wizkid
+2018-02-22 12:20:20,820 - Travelservice -INFO - Album number85Album name J.Sheon
+2018-02-22 12:20:24,280 - Travelservice -INFO - Album number86Album name Julien Doré
+2018-02-22 12:20:28,079 - Travelservice -INFO - Album number87Album name Jay Chou
+2018-02-22 12:20:31,391 - Travelservice -INFO - Album number88Album name Marteria
+2018-02-22 12:20:35,934 - Travelservice -INFO - Album number89Album name Bob Marley & The Wailers
+2018-02-22 12:20:40,128 - Travelservice -INFO - Album number90Album name Amy Faithe
+2018-02-22 12:20:43,176 - Travelservice -INFO - Album number91Album name Dyan Garris
+2018-02-22 12:20:46,719 - Travelservice -INFO - Album number92Album name David Wells
+2018-02-22 12:20:50,110 - Travelservice -INFO - Album number93Album name Anaamaly
+2018-02-22 12:20:53,546 - Travelservice -INFO - Album number94Album name Art Patience
+2018-02-22 12:20:56,690 - Travelservice -INFO - Album number95Album name Gary Schmidt
+2018-02-22 12:21:00,446 - Travelservice -INFO - Album number96Album name Ben Carroll
+2018-02-22 12:21:03,860 - Travelservice -INFO - Album number97Album name Jeff Pearce
+2018-02-22 12:21:06,874 - Travelservice -INFO - Album number98Album name John Calvert
+2018-02-22 12:21:10,419 - Travelservice -INFO - Album number99Album name Darin Mahoney
+2018-02-22 12:21:14,007 - Travelservice -INFO - Album number100Album name Michelle Qureshi
+2018-02-22 12:21:17,943 - Travelservice -INFO - Album number101Album name Lisa Swerdlow
+2018-02-22 14:17:54,657 - Travelservice -INFO - Browser Opened
+2018-02-22 14:17:54,663 - Travelservice -INFO - Implicit wait given
+2018-02-22 14:18:00,242 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 14:18:04,380 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 14:18:07,891 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 14:18:08,149 - Travelservice -INFO - http://ifd.aero/qsa121701102ma.mp3 - Not Found - 404
+2018-02-22 14:18:11,457 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 14:18:14,167 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-22 14:18:16,909 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-22 14:18:20,196 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-22 14:18:23,330 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-22 14:18:26,883 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-22 14:18:30,049 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-22 14:18:34,579 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-22 14:18:37,784 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-22 14:18:41,829 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-22 14:18:44,956 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-22 14:18:48,895 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-22 14:18:52,272 - Travelservice -INFO - Album number15Album name Scouting for Girls
+2018-02-22 14:18:55,319 - Travelservice -INFO - Album number16Album name The Shins
+2018-02-22 14:18:58,470 - Travelservice -INFO - Album number17Album name Foo Fighters
+2018-02-22 14:19:01,582 - Travelservice -INFO - Album number18Album name Kings of Leon
+2018-02-22 14:19:04,678 - Travelservice -INFO - Album number19Album name COIN
+2018-02-22 14:19:07,766 - Travelservice -INFO - Album number20Album name CRX
+2018-02-22 14:19:10,851 - Travelservice -INFO - Album number21Album name Brian May + Kerry Ellis
+2018-02-22 14:19:14,061 - Travelservice -INFO - Album number22Album name David Bowie
+2018-02-22 14:19:16,466 - Travelservice -INFO - Album number23Album name Arcade Fire
+2018-02-22 14:19:19,798 - Travelservice -INFO - Album number24Album name Foster the People
+2018-02-22 14:19:22,951 - Travelservice -INFO - Album number25Album name John Mayer
+2018-02-22 14:19:26,086 - Travelservice -INFO - Album number26Album name DREAMCAR
+2018-02-22 14:19:29,345 - Travelservice -INFO - Album number27Album name Dams of the West
+2018-02-22 14:19:32,321 - Travelservice -INFO - Album number28Album name Various Artists
+2018-02-22 14:19:35,602 - Travelservice -INFO - Album number29Album name Marion Treupel-Franck
+2018-02-22 14:19:39,228 - Travelservice -INFO - Album number30Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-02-22 14:23:46,627 - Travelservice -INFO - Browser Opened
+2018-02-22 14:23:46,634 - Travelservice -INFO - Implicit wait given
+2018-02-22 14:23:53,327 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 14:23:57,378 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-22 14:24:00,937 - Travelservice -INFO - Album number2Album name Sia
+2018-02-22 14:24:04,238 - Travelservice -INFO - Album number3Album name Superfruit
+2018-02-22 14:24:06,972 - Travelservice -INFO - Album number4Album name Pentatonix
+2018-02-22 14:24:09,735 - Travelservice -INFO - Album number5Album name Tereza Kerndlova
+2018-02-22 14:24:12,898 - Travelservice -INFO - Album number6Album name Everything Everything
+2018-02-22 14:24:16,009 - Travelservice -INFO - Album number7Album name Zara Larsson
+2018-02-22 14:24:19,506 - Travelservice -INFO - Album number8Album name Debbi
+2018-02-22 14:24:22,635 - Travelservice -INFO - Album number9Album name DJ Khaled
+2018-02-22 14:24:26,864 - Travelservice -INFO - Album number10Album name Pitbull
+2018-02-22 14:24:30,117 - Travelservice -INFO - Album number11Album name Michal David
+2018-02-22 14:24:33,880 - Travelservice -INFO - Album number12Album name Lea Michele
+2018-02-22 14:24:36,959 - Travelservice -INFO - Album number13Album name Michal David
+2018-02-22 14:24:40,704 - Travelservice -INFO - Album number14Album name Little Mix
+2018-02-22 14:24:43,862 - Travelservice -INFO - Album number15Album name Scouting for Girls
+2018-02-22 14:24:46,861 - Travelservice -INFO - Album number16Album name The Shins
+2018-02-22 14:24:49,963 - Travelservice -INFO - Album number17Album name Foo Fighters
+2018-02-22 14:24:53,087 - Travelservice -INFO - Album number18Album name Kings of Leon
+2018-02-22 14:24:56,170 - Travelservice -INFO - Album number19Album name COIN
+2018-02-22 14:24:59,179 - Travelservice -INFO - Album number20Album name CRX
+2018-02-22 14:25:02,182 - Travelservice -INFO - Album number21Album name Brian May + Kerry Ellis
+2018-02-22 14:25:05,435 - Travelservice -INFO - Album number22Album name David Bowie
+2018-02-22 14:25:07,936 - Travelservice -INFO - Album number23Album name Arcade Fire
+2018-02-22 14:25:11,147 - Travelservice -INFO - Album number24Album name Foster the People
+2018-02-22 14:25:14,408 - Travelservice -INFO - Album number25Album name John Mayer
+2018-02-22 14:25:17,577 - Travelservice -INFO - Album number26Album name DREAMCAR
+2018-02-22 14:25:20,754 - Travelservice -INFO - Album number27Album name Dams of the West
+2018-02-22 14:25:23,792 - Travelservice -INFO - Album number28Album name Various Artists
+2018-02-22 14:25:26,943 - Travelservice -INFO - Album number29Album name Marion Treupel-Franck
+2018-02-22 14:25:30,464 - Travelservice -INFO - Album number30Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-02-22 14:25:33,416 - Travelservice -INFO - Album number31Album name Natalie Dessay
+2018-02-22 14:25:36,928 - Travelservice -INFO - Album number32Album name 2CELLOS
+2018-02-22 14:25:40,255 - Travelservice -INFO - Album number33Album name Jonas Kaufmann
+2018-02-22 14:25:44,022 - Travelservice -INFO - Album number34Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
+2018-02-22 14:25:47,320 - Travelservice -INFO - Album number35Album name The Piano Guys
+2018-02-22 14:25:50,540 - Travelservice -INFO - Album number36Album name Rudolf Buchbinder
+2018-02-22 14:25:53,681 - Travelservice -INFO - Album number37Album name Simone Dinnerstein
+2018-02-22 14:25:56,343 - Travelservice -INFO - Album number38Album name Tina Guo
+2018-02-22 14:25:59,768 - Travelservice -INFO - Album number39Album name Arcadi Volodos
+2018-02-22 14:26:03,192 - Travelservice -INFO - Album number40Album name Sol Gabetta and Bertrand Chamayou
+2018-02-22 14:26:06,093 - Travelservice -INFO - Album number41Album name Baptiste Trotignon & Yosvany Terry
+2018-02-22 14:26:09,115 - Travelservice -INFO - Album number42Album name Bria Skonberg
+2018-02-22 14:26:12,513 - Travelservice -INFO - Album number43Album name The Bad Plus
+2018-02-22 14:26:15,639 - Travelservice -INFO - Album number44Album name Thelonious Monk
+2018-02-22 14:26:19,765 - Travelservice -INFO - Album number45Album name Preservation Hall Jazz Band
+2018-02-22 14:26:22,519 - Travelservice -INFO - Album number46Album name Weather Report
+2018-02-22 14:26:25,349 - Travelservice -INFO - Album number47Album name James Brandon Lewis
+2018-02-22 14:26:31,399 - Travelservice -INFO - Album number48Album name Duke Ellington & His Famous Orchestra
+2018-02-22 14:26:34,868 - Travelservice -INFO - Album number49Album name Theo Croker
+2018-02-22 14:26:37,962 - Travelservice -INFO - Album number50Album name Somi
+2018-02-22 14:26:41,342 - Travelservice -INFO - Album number51Album name Louis Armstrong
+2018-02-22 14:26:45,803 - Travelservice -INFO - Album number52Album name David Orlowsky Trio
+2018-02-22 14:26:48,918 - Travelservice -INFO - Album number53Album name Michael Jackson
+2018-02-22 14:26:52,053 - Travelservice -INFO - Album number54Album name Aretha Franklin
+2018-02-22 14:26:55,930 - Travelservice -INFO - Album number55Album name Bruce Springsteen
+2018-02-22 14:26:59,111 - Travelservice -INFO - Album number56Album name Frank Sinatra
+2018-02-22 14:27:02,802 - Travelservice -INFO - Album number57Album name George Michael
+2018-02-22 14:27:05,811 - Travelservice -INFO - Album number58Album name Bob Dylan
+2018-02-22 14:27:08,678 - Travelservice -INFO - Album number59Album name Aerosmith
+2018-02-22 14:27:11,500 - Travelservice -INFO - Album number60Album name Tony Bennett
+2018-02-22 14:27:14,760 - Travelservice -INFO - Album number61Album name Fleetwood Mac
+2018-02-22 14:27:18,752 - Travelservice -INFO - Album number62Album name Elvis Presley
+2018-02-22 14:27:21,946 - Travelservice -INFO - Album number63Album name Nina Simone
+2018-02-22 14:27:25,373 - Travelservice -INFO - Album number64Album name Whitney Houston
+2018-02-22 14:27:28,510 - Travelservice -INFO - Album number65Album name Barry Manilow
+2018-02-22 14:27:31,922 - Travelservice -INFO - Album number66Album name Jason Aldean
+2018-02-22 14:27:35,318 - Travelservice -INFO - Album number67Album name Ward Thomas
+2018-02-22 14:27:38,688 - Travelservice -INFO - Album number68Album name Maren Morris
+2018-02-22 14:27:41,795 - Travelservice -INFO - Album number69Album name Brad Paisley
+2018-02-22 14:27:45,313 - Travelservice -INFO - Album number70Album name Dolly Parton
+2018-02-22 14:27:48,549 - Travelservice -INFO - Album number71Album name Old Crow Medicine Show
+2018-02-22 14:27:51,939 - Travelservice -INFO - Album number72Album name Kenny Chesney
+2018-02-22 14:27:55,120 - Travelservice -INFO - Album number73Album name Old Dominion
+2018-02-22 14:27:58,296 - Travelservice -INFO - Album number74Album name Willie Nelson
+2018-02-22 14:28:01,621 - Travelservice -INFO - Album number75Album name Luke Combs
+2018-02-22 14:28:04,901 - Travelservice -INFO - Album number76Album name Miranda Lambert
+2018-02-22 14:28:09,424 - Travelservice -INFO - Album number77Album name Kelsea Ballerini
+2018-02-22 14:28:13,100 - Travelservice -INFO - Album number78Album name Shakira
+2018-02-22 14:28:16,437 - Travelservice -INFO - Album number79Album name Silbermond
+2018-02-22 14:28:20,175 - Travelservice -INFO - Album number80Album name Giusy Ferreri
+2018-02-22 14:28:23,616 - Travelservice -INFO - Album number81Album name J_ust
+2018-02-22 14:28:26,828 - Travelservice -INFO - Album number82Album name Polock
+2018-02-22 14:28:29,889 - Travelservice -INFO - Album number83Album name Various Artists
+2018-02-22 14:28:34,518 - Travelservice -INFO - Album number84Album name Wizkid
+2018-02-22 14:28:37,829 - Travelservice -INFO - Album number85Album name J.Sheon
+2018-02-22 14:28:43,978 - Travelservice -INFO - Album number86Album name Julien Doré
+2018-02-22 14:28:47,246 - Travelservice -INFO - Album number87Album name Jay Chou
+2018-02-22 14:28:50,262 - Travelservice -INFO - Album number88Album name Marteria
+2018-02-22 14:28:53,575 - Travelservice -INFO - Album number89Album name Bob Marley & The Wailers
+2018-02-22 14:28:56,996 - Travelservice -INFO - Album number90Album name Amy Faithe
+2018-02-22 14:28:59,694 - Travelservice -INFO - Album number91Album name Dyan Garris
+2018-02-22 14:29:02,851 - Travelservice -INFO - Album number92Album name David Wells
+2018-02-22 14:29:05,935 - Travelservice -INFO - Album number93Album name Anaamaly
+2018-02-22 14:29:09,033 - Travelservice -INFO - Album number94Album name Art Patience
+2018-02-22 14:29:12,043 - Travelservice -INFO - Album number95Album name Gary Schmidt
+2018-02-22 14:29:15,317 - Travelservice -INFO - Album number96Album name Ben Carroll
+2018-02-22 14:29:18,500 - Travelservice -INFO - Album number97Album name Jeff Pearce
+2018-02-22 14:29:21,245 - Travelservice -INFO - Album number98Album name John Calvert
+2018-02-22 14:29:24,395 - Travelservice -INFO - Album number99Album name Darin Mahoney
+2018-02-22 14:29:27,291 - Travelservice -INFO - Album number100Album name Michelle Qureshi
+2018-02-22 14:29:30,787 - Travelservice -INFO - Album number101Album name Lisa Swerdlow
+2018-02-22 15:56:27,377 - Travelservice -INFO - Browser Opened
+2018-02-22 15:56:27,384 - Travelservice -INFO - Implicit wait given
+2018-02-22 15:57:20,851 - Travelservice -INFO - Browser Opened
+2018-02-22 15:57:20,857 - Travelservice -INFO - Implicit wait given
+2018-02-22 15:57:26,440 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:00:35,872 - Travelservice -INFO - Browser Opened
+2018-02-22 16:00:35,880 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:00:41,656 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:13:34,453 - Travelservice -INFO - Browser Opened
+2018-02-22 16:13:34,461 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:13:40,987 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:14:47,131 - Travelservice -INFO - Browser Opened
+2018-02-22 16:14:47,138 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:14:52,733 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:15:30,252 - Travelservice -INFO - Browser Opened
+2018-02-22 16:15:30,259 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:15:35,840 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:16:13,681 - Travelservice -INFO - Browser Opened
+2018-02-22 16:16:14,067 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:16:24,603 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:16:55,404 - Travelservice -INFO - Browser Opened
+2018-02-22 16:16:55,411 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:17:01,040 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:17:22,578 - Travelservice -INFO - Browser Opened
+2018-02-22 16:17:22,585 - Travelservice -INFO - Implicit wait given
+2018-02-22 16:17:28,538 - Travelservice -INFO - Album number0Album name Kesha
+2018-02-22 16:17:32,518 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-23 10:33:42,805 - Travelservice -INFO - Browser Opened
+2018-02-23 10:33:42,812 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:33:49,490 - Travelservice -INFO - Album number01Album name Kesha
+2018-02-23 10:33:54,338 - Travelservice -INFO - Album number11Album name Harry Styles
+2018-02-23 10:33:59,572 - Travelservice -INFO - Album number21Album name Sia
+2018-02-23 10:34:38,667 - Travelservice -INFO - Browser Opened
+2018-02-23 10:34:38,673 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:34:44,846 - Travelservice -INFO - Album number11Album name Kesha
+2018-02-23 10:34:50,536 - Travelservice -INFO - Album number31Album name Sia
+2018-02-23 10:34:55,103 - Travelservice -INFO - Album number51Album name Pentatonix
+2018-02-23 10:35:28,030 - Travelservice -INFO - Browser Opened
+2018-02-23 10:35:28,038 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:36:36,162 - Travelservice -INFO - Browser Opened
+2018-02-23 10:36:36,168 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:36:42,434 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:36:47,987 - Travelservice -INFO - Album number1Album name Harry Styles
+2018-02-23 10:37:25,880 - Travelservice -INFO - Browser Opened
+2018-02-23 10:37:25,887 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:37:33,374 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:37:38,669 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 10:37:43,067 - Travelservice -INFO - Album number3Album name Sia
+2018-02-23 10:37:47,067 - Travelservice -INFO - Album number4Album name Superfruit
+2018-02-23 10:37:50,332 - Travelservice -INFO - Album number5Album name Pentatonix
+2018-02-23 10:37:53,741 - Travelservice -INFO - Album number6Album name Tereza Kerndlova
+2018-02-23 10:37:56,983 - Travelservice -INFO - Album number7Album name Everything Everything
+2018-02-23 10:38:00,172 - Travelservice -INFO - Album number8Album name Zara Larsson
+2018-02-23 10:38:03,817 - Travelservice -INFO - Album number9Album name Debbi
+2018-02-23 10:39:23,155 - Travelservice -INFO - Browser Opened
+2018-02-23 10:39:23,162 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:39:30,675 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:39:36,235 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 10:40:45,222 - Travelservice -INFO - Browser Opened
+2018-02-23 10:40:45,229 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:40:51,153 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:40:56,888 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 10:41:29,595 - Travelservice -INFO - Browser Opened
+2018-02-23 10:41:29,602 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:41:35,236 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:41:41,006 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 10:41:45,933 - Travelservice -INFO - Album number3Album name Sia
+2018-02-23 10:41:49,684 - Travelservice -INFO - Album number4Album name Superfruit
+2018-02-23 10:42:57,052 - Travelservice -INFO - Browser Opened
+2018-02-23 10:42:57,061 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:43:04,095 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:43:09,946 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 10:43:14,719 - Travelservice -INFO - Album number3Album name Sia
+2018-02-23 10:43:18,566 - Travelservice -INFO - Album number4Album name Superfruit
+2018-02-23 10:43:21,427 - Travelservice -INFO - Album number5Album name Pentatonix
+2018-02-23 10:52:44,431 - Travelservice -INFO - Browser Opened
+2018-02-23 10:52:44,440 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:53:03,524 - Travelservice -INFO - Browser Opened
+2018-02-23 10:53:03,529 - Travelservice -INFO - Implicit wait given
+2018-02-23 10:53:09,698 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 10:53:13,871 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 10:53:17,891 - Travelservice -INFO -  album Tested 
+2018-02-23 11:30:56,396 - Travelservice -INFO - Browser Opened
+2018-02-23 11:30:56,403 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:32:59,430 - Travelservice -INFO - Browser Opened
+2018-02-23 11:32:59,437 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:33:04,887 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 11:33:09,106 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 11:33:36,871 - Travelservice -INFO - Browser Opened
+2018-02-23 11:33:36,879 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:35:26,946 - Travelservice -INFO - Browser Opened
+2018-02-23 11:35:26,953 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:35:28,354 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 11:35:32,305 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 11:37:20,948 - Travelservice -INFO - Browser Opened
+2018-02-23 11:37:20,956 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:37:27,604 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 11:37:31,664 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 11:42:40,136 - Travelservice -INFO - Browser Opened
+2018-02-23 11:42:40,142 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:42:46,168 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 11:42:50,174 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 11:42:53,732 - Travelservice -INFO - Album number3Album name Sia
+2018-02-23 11:43:15,367 - Travelservice -INFO - Browser Opened
+2018-02-23 11:43:15,374 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:43:21,536 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 11:43:25,525 - Travelservice -INFO - Album number2Album name Harry Styles
+2018-02-23 11:44:17,316 - Travelservice -INFO - Browser Opened
+2018-02-23 11:44:17,323 - Travelservice -INFO - Implicit wait given
+2018-02-23 11:44:22,668 - Travelservice -INFO - Album number1Album name Kesha
+2018-02-23 12:08:29,995 - Travelservice -INFO - Browser Opened
+2018-02-23 12:08:30,005 - Travelservice -INFO - Implicit wait given
+2018-02-23 12:23:28,562 - Travelservice -INFO - Browser Opened
+2018-02-23 12:23:28,571 - Travelservice -INFO - Implicit wait given
+2018-02-23 12:29:28,119 - Travelservice -INFO - Browser Opened
+2018-02-23 12:29:28,126 - Travelservice -INFO - Implicit wait given
+2018-02-23 12:34:27,948 - Travelservice -INFO - Browser Opened
+2018-02-23 12:34:27,957 - Travelservice -INFO - Implicit wait given
+2018-02-23 12:36:12,654 - Travelservice -INFO - Browser Opened
+2018-02-23 12:36:12,660 - Travelservice -INFO - Implicit wait given
+2018-02-23 13:31:02,590 - Travelservice -INFO - Browser Opened
+2018-02-23 13:31:02,597 - Travelservice -INFO - Implicit wait given
+2018-02-23 14:22:41,131 - Travelservice -INFO - Browser Opened
+2018-02-23 14:22:41,140 - Travelservice -INFO - Implicit wait given
+2018-02-23 14:22:49,498 - Travelservice -INFO - Browser Opened
+2018-02-23 14:22:49,505 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:40:06,068 - Travelservice -INFO - Browser Opened
+2018-02-23 16:40:06,255 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:44:29,587 - Travelservice -INFO - Browser Opened
+2018-02-23 16:44:29,596 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:46:18,237 - Travelservice -INFO - Browser Opened
+2018-02-23 16:46:18,244 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:47:38,637 - Travelservice -INFO - Browser Opened
+2018-02-23 16:47:38,644 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:48:59,858 - Travelservice -INFO - Browser Opened
+2018-02-23 16:48:59,866 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:56:12,044 - Travelservice -INFO - Browser Opened
+2018-02-23 16:56:12,051 - Travelservice -INFO - Implicit wait given
+2018-02-23 16:59:03,171 - Travelservice -INFO - Browser Opened
+2018-02-23 16:59:03,177 - Travelservice -INFO - Implicit wait given
+2018-02-27 15:43:22,898 - Travelservice -INFO - Browser Opened
+2018-02-27 15:43:22,904 - Travelservice -INFO - Implicit wait given
+2018-02-27 15:45:15,350 - Travelservice -INFO - Browser Opened
+2018-02-27 15:45:15,356 - Travelservice -INFO - Implicit wait given
+2018-02-27 15:51:00,850 - Travelservice -INFO - Browser Opened
+2018-02-27 15:51:00,857 - Travelservice -INFO - Implicit wait given
+2018-02-27 15:51:53,988 - Travelservice -INFO - Browser Opened
+2018-02-27 15:51:53,995 - Travelservice -INFO - Implicit wait given
+2018-02-27 15:54:47,330 - Travelservice -INFO - Browser Opened
+2018-02-27 15:54:47,337 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:02:37,706 - Travelservice -INFO - Browser Opened
+2018-02-27 16:02:37,713 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:03:04,937 - Travelservice -INFO - Browser Opened
+2018-02-27 16:03:04,943 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:06:42,024 - Travelservice -INFO - Browser Opened
+2018-02-27 16:06:42,032 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:24:05,084 - Travelservice -INFO - Browser Opened
+2018-02-27 16:24:05,089 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:25:19,816 - Travelservice -INFO - Browser Opened
+2018-02-27 16:25:19,823 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:29:44,090 - Travelservice -INFO - Browser Opened
+2018-02-27 16:29:44,096 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:31:01,874 - Travelservice -INFO - Browser Opened
+2018-02-27 16:31:01,881 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:34:30,921 - Travelservice -INFO - Browser Opened
+2018-02-27 16:34:30,928 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:37:27,875 - Travelservice -INFO - Browser Opened
+2018-02-27 16:37:27,881 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:38:57,417 - Travelservice -INFO - Browser Opened
+2018-02-27 16:38:57,425 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:39:27,498 - Travelservice -INFO - Browser Opened
+2018-02-27 16:39:27,505 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:40:11,973 - Travelservice -INFO - Browser Opened
+2018-02-27 16:40:11,979 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:41:27,973 - Travelservice -INFO - Browser Opened
+2018-02-27 16:41:27,979 - Travelservice -INFO - Implicit wait given
+2018-02-27 16:41:54,110 - Travelservice -INFO - Browser Opened
+2018-02-27 16:41:54,116 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:17:00,922 - Travelservice -INFO - Browser Opened
+2018-03-09 11:17:01,164 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:17:37,740 - Travelservice -INFO - Browser Opened
+2018-03-09 11:17:37,747 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:17:59,823 - Travelservice -INFO - Browser Opened
+2018-03-09 11:17:59,830 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:26:04,456 - Travelservice -INFO - Browser Opened
+2018-03-09 11:26:04,463 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:26:27,561 - Travelservice -INFO - Browser Opened
+2018-03-09 11:26:27,567 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:27:04,253 - Travelservice -INFO - Browser Opened
+2018-03-09 11:27:04,259 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:27:50,619 - Travelservice -INFO - Browser Opened
+2018-03-09 11:27:50,626 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:29:55,161 - Travelservice -INFO - Browser Opened
+2018-03-09 11:29:55,167 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:37:19,024 - Travelservice -INFO - Browser Opened
+2018-03-09 11:37:19,030 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:38:03,259 - Travelservice -INFO - Browser Opened
+2018-03-09 11:38:03,266 - Travelservice -INFO - Implicit wait given
+2018-03-09 11:39:34,396 - Travelservice -INFO - Browser Opened
+2018-03-09 11:39:34,401 - Travelservice -INFO - Implicit wait given
+2018-03-09 14:51:24,673 - Travelservice -INFO - Browser Opened
+2018-03-09 14:51:24,682 - Travelservice -INFO - Implicit wait given
+2018-03-09 14:55:35,813 - Travelservice -INFO - Browser Opened
+2018-03-09 14:55:35,820 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:07:19,438 - Travelservice -INFO - Browser Opened
+2018-03-09 15:07:19,445 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:08:37,413 - Travelservice -INFO - Browser Opened
+2018-03-09 15:08:37,420 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:09:42,363 - Travelservice -INFO - Browser Opened
+2018-03-09 15:09:42,371 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:11:51,133 - Travelservice -INFO - Browser Opened
+2018-03-09 15:11:51,139 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:15:50,876 - Travelservice -INFO - Browser Opened
+2018-03-09 15:15:50,883 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:21:04,292 - Travelservice -INFO - Browser Opened
+2018-03-09 15:21:04,299 - Travelservice -INFO - Implicit wait given
+2018-03-09 15:23:39,210 - Travelservice -INFO - Browser Opened
+2018-03-09 15:23:39,219 - Travelservice -INFO - Implicit wait given
