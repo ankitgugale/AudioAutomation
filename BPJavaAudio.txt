@@ -1,0 +1,80 @@
+Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 36431
+Only local connections are allowed.
+ INFO [main] (BpJavaAudio.java:262)- Browser Opened
+ INFO [main] (BpJavaAudio.java:266)- Implicit wait given
+Tags[[[[[[[ChromeDriver: chrome on XP (b7b4ccf59219e1057590a26a514828a4)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (b7b4ccf59219e1057590a26a514828a4)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (b7b4ccf59219e1057590a26a514828a4)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (b7b4ccf59219e1057590a26a514828a4)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (b7b4ccf59219e1057590a26a514828a4)] -> class name: gridster]] -> tag name: ul]] -> tag name: li]]
+Movies
+TV Shows
+Audio
+found!!!
+
+
+Audio Section
+Total number of Albums 36
+Album number 1
+Album name Kenny Chesney
+Number of songs in an album are  29
+ INFO [main] (BpJavaAudio.java:165)- Album number1Album name Kenny Chesney
+01. Flora-Bama
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+02. Summertime
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+03. Big Star
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+04. Boston
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+05. When I See This Bar
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+06. No Shoes, No Shirt, No Problems
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+07. Anything but Mine
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+08. Down the Road
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+09. Guitars and Tiki Bars
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+10. Hemingway's Whiskey
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+11. Everybody Wants to Go to Heaven
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+12. I'm Alive
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+13. Save It for a Rainy Day
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+14. Pirate Flag
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+15. Somewhere with You
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+16. I Go Back
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+17. One Step Up
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+18. American Kids
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+19. You and Tequila
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+20. Young
+http://ifd.aeronull - java.net.UnknownHostException: ifd.aeronull
+Exception in thread "main" org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'DESKTOP-NHV0DTO', ip: '172.1.0.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\Ankit\AppData\Local\Temp\scoped_dir5664_20927}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b7b4ccf59219e1057590a26a514828a4
+*** Element info: {Using=css selector, value=.click-block.click-block-hide}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at BluePanorama.BpJavaAudio.playaudio(BpJavaAudio.java:174)
+	at BluePanorama.BpJavaAudio.main(BpJavaAudio.java:276)

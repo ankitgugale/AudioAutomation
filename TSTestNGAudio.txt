@@ -9,10 +9,11 @@ log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more in
  INFO [main] (TSTestNGAudio.java:60)- Browser Opened
  INFO [main] (TSTestNGAudio.java:62)- Implicit wait given
 Tags[[[[[[[ChromeDriver: chrome on XP (7d0f0c871bfb20a9bd695d56a4b0fefc)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (7d0f0c871bfb20a9bd695d56a4b0fefc)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (7d0f0c871bfb20a9bd695d56a4b0fefc)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (7d0f0c871bfb20a9bd695d56a4b0fefc)] -> class name: gridster]] -> tag name: ul]] -> tag name: li], [[[[[[ChromeDriver: chrome on XP (7d0f0c871bfb20a9bd695d56a4b0fefc)] -> class name: gridster]] -> tag name: ul]] -> tag name: li]]
-Film
+Filmy
 TV Po?ady
 Hudba
-found!
+found!!!
+
 
 Audio Section
 Total number of Albums 102

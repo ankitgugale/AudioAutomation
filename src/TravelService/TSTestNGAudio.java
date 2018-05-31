@@ -219,7 +219,7 @@ public class TSTestNGAudio {
 		try {
 			// now copy the  screenshot to desired location using copyFile method
 
-			FileUtils.copyFile(src, new File("D:\\Eclispe Workspace\\Audio Automation\\Screenshots\\"+System.currentTimeMillis()+".png"));                              } catch (IOException e)
+			FileUtils.copyFile(src, new File("D:\\Eclispe Workspace\\Audio Automation\\Screenshots\\Audio\\AudioJava\\"+System.currentTimeMillis()+".png"));                              } catch (IOException e)
 
 		{
 				System.out.println(e.getMessage()) ;

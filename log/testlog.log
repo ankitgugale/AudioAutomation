@@ -1,246 +1,519 @@
-2018-02-23 12:39:29,220 - Travelservice -INFO - Browser Opened
-2018-02-23 12:39:29,226 - Travelservice -INFO - Implicit wait given
-2018-02-23 12:39:35,843 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 13:00:29,808 - Travelservice -INFO - Browser Opened
-2018-02-23 13:00:29,848 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:04:52,157 - Travelservice -INFO - Browser Opened
-2018-02-23 13:04:52,164 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:04:58,673 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 13:05:02,632 - Travelservice -INFO - Album number2Album name Harry Styles
-2018-02-23 13:09:25,137 - Travelservice -INFO - Browser Opened
-2018-02-23 13:09:25,152 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:11:48,899 - Travelservice -INFO - Browser Opened
-2018-02-23 13:11:48,905 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:13:14,529 - Travelservice -INFO - Browser Opened
-2018-02-23 13:13:14,536 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:13:32,521 - Travelservice -INFO - Browser Opened
-2018-02-23 13:13:32,529 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:15:44,236 - Travelservice -INFO - Browser Opened
-2018-02-23 13:15:44,244 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:30:23,000 - Travelservice -INFO - Browser Opened
-2018-02-23 13:30:23,007 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:30:29,664 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 13:32:01,285 - Travelservice -INFO - Browser Opened
-2018-02-23 13:32:01,292 - Travelservice -INFO - Implicit wait given
-2018-02-23 13:32:07,560 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 13:36:01,203 - Travelservice -INFO - Browser Opened
-2018-02-23 13:36:01,211 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:16:28,823 - Travelservice -INFO - Browser Opened
-2018-02-23 14:16:28,831 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:22:13,206 - Travelservice -INFO - Browser Opened
-2018-02-23 14:22:13,213 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:22:27,481 - Travelservice -INFO - Browser Opened
-2018-02-23 14:22:27,488 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:23:08,028 - Travelservice -INFO - Browser Opened
-2018-02-23 14:23:08,034 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:29:49,073 - Travelservice -INFO - Browser Opened
-2018-02-23 14:29:49,079 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:29:55,191 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 14:29:59,446 - Travelservice -INFO - Album number2Album name Harry Styles
-2018-02-23 14:30:03,859 - Travelservice -INFO - Album number3Album name Sia
-2018-02-23 14:30:07,365 - Travelservice -INFO - Album number4Album name Superfruit
-2018-02-23 14:30:10,141 - Travelservice -INFO - Album number5Album name Pentatonix
-2018-02-23 14:30:13,021 - Travelservice -INFO - Album number6Album name Tereza Kerndlova
-2018-02-23 14:30:16,512 - Travelservice -INFO - Album number7Album name Everything Everything
-2018-02-23 14:30:19,704 - Travelservice -INFO - Album number8Album name Zara Larsson
-2018-02-23 14:30:23,235 - Travelservice -INFO - Album number9Album name Debbi
-2018-02-23 14:30:26,385 - Travelservice -INFO - Album number10Album name DJ Khaled
-2018-02-23 14:30:30,632 - Travelservice -INFO - Album number11Album name Pitbull
-2018-02-23 14:30:33,716 - Travelservice -INFO - Album number12Album name Michal David
-2018-02-23 14:30:37,552 - Travelservice -INFO - Album number13Album name Lea Michele
-2018-02-23 14:30:40,774 - Travelservice -INFO - Album number14Album name Michal David
-2018-02-23 14:30:44,682 - Travelservice -INFO - Album number15Album name Little Mix
-2018-02-23 14:30:50,888 - Travelservice -INFO - Album number16Album name Scouting for Girls
-2018-02-23 14:30:53,877 - Travelservice -INFO - Album number17Album name The Shins
-2018-02-23 14:30:57,046 - Travelservice -INFO - Album number18Album name Foo Fighters
-2018-02-23 14:31:00,529 - Travelservice -INFO - Album number19Album name Kings of Leon
-2018-02-23 14:31:03,488 - Travelservice -INFO - Album number20Album name COIN
-2018-02-23 14:31:06,508 - Travelservice -INFO - Album number21Album name CRX
-2018-02-23 14:31:09,551 - Travelservice -INFO - Album number22Album name Brian May + Kerry Ellis
-2018-02-23 14:31:12,830 - Travelservice -INFO - Album number23Album name David Bowie
-2018-02-23 14:31:15,275 - Travelservice -INFO - Album number24Album name Arcade Fire
-2018-02-23 14:31:18,482 - Travelservice -INFO - Album number25Album name Foster the People
-2018-02-23 14:31:21,629 - Travelservice -INFO - Album number26Album name John Mayer
-2018-02-23 14:31:24,910 - Travelservice -INFO - Album number27Album name DREAMCAR
-2018-02-23 14:31:28,073 - Travelservice -INFO - Album number28Album name Dams of the West
-2018-02-23 14:31:31,203 - Travelservice -INFO - Album number29Album name Various Artists
-2018-02-23 14:31:34,580 - Travelservice -INFO - Album number30Album name Marion Treupel-Franck
-2018-02-23 14:31:38,090 - Travelservice -INFO - Album number31Album name Ezio Bosso & Filarmonica Teatro La Fenice
-2018-02-23 14:31:41,102 - Travelservice -INFO - Album number32Album name Natalie Dessay
-2018-02-23 14:31:44,734 - Travelservice -INFO - Album number33Album name 2CELLOS
-2018-02-23 14:31:48,094 - Travelservice -INFO - Album number34Album name Jonas Kaufmann
-2018-02-23 14:31:51,789 - Travelservice -INFO - Album number35Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
-2018-02-23 14:31:55,089 - Travelservice -INFO - Album number36Album name The Piano Guys
-2018-02-23 14:31:58,287 - Travelservice -INFO - Album number37Album name Rudolf Buchbinder
-2018-02-23 14:32:01,498 - Travelservice -INFO - Album number38Album name Simone Dinnerstein
-2018-02-23 14:32:04,095 - Travelservice -INFO - Album number39Album name Tina Guo
-2018-02-23 14:32:07,424 - Travelservice -INFO - Album number40Album name Arcadi Volodos
-2018-02-23 14:32:10,716 - Travelservice -INFO - Album number41Album name Sol Gabetta and Bertrand Chamayou
-2018-02-23 14:32:13,747 - Travelservice -INFO - Album number42Album name Baptiste Trotignon & Yosvany Terry
-2018-02-23 14:32:16,837 - Travelservice -INFO - Album number43Album name Bria Skonberg
-2018-02-23 14:32:20,419 - Travelservice -INFO - Album number44Album name The Bad Plus
-2018-02-23 14:32:23,655 - Travelservice -INFO - Album number45Album name Thelonious Monk
-2018-02-23 14:32:27,683 - Travelservice -INFO - Album number46Album name Preservation Hall Jazz Band
-2018-02-23 14:32:30,473 - Travelservice -INFO - Album number47Album name Weather Report
-2018-02-23 14:32:33,279 - Travelservice -INFO - Album number48Album name James Brandon Lewis
-2018-02-23 14:32:36,292 - Travelservice -INFO - Album number49Album name Duke Ellington & His Famous Orchestra
-2018-02-23 14:32:39,602 - Travelservice -INFO - Album number50Album name Theo Croker
-2018-02-23 14:32:42,955 - Travelservice -INFO - Album number51Album name Somi
-2018-02-23 14:32:46,457 - Travelservice -INFO - Album number52Album name Louis Armstrong
-2018-02-23 14:32:50,990 - Travelservice -INFO - Album number53Album name David Orlowsky Trio
-2018-02-23 14:32:57,427 - Travelservice -INFO - Album number54Album name Michael Jackson
-2018-02-23 14:33:00,763 - Travelservice -INFO - Album number55Album name Aretha Franklin
-2018-02-23 14:33:04,936 - Travelservice -INFO - Album number56Album name Bruce Springsteen
-2018-02-23 14:33:08,136 - Travelservice -INFO - Album number57Album name Frank Sinatra
-2018-02-23 14:33:12,033 - Travelservice -INFO - Album number58Album name George Michael
-2018-02-23 14:33:15,014 - Travelservice -INFO - Album number59Album name Bob Dylan
-2018-02-23 14:33:17,963 - Travelservice -INFO - Album number60Album name Aerosmith
-2018-02-23 14:33:20,951 - Travelservice -INFO - Album number61Album name Tony Bennett
-2018-02-23 14:33:24,182 - Travelservice -INFO - Album number62Album name Fleetwood Mac
-2018-02-23 14:33:28,017 - Travelservice -INFO - Album number63Album name Elvis Presley
-2018-02-23 14:33:31,280 - Travelservice -INFO - Album number64Album name Nina Simone
-2018-02-23 14:33:34,823 - Travelservice -INFO - Album number65Album name Whitney Houston
-2018-02-23 14:33:37,978 - Travelservice -INFO - Album number66Album name Barry Manilow
-2018-02-23 14:33:41,585 - Travelservice -INFO - Album number67Album name Jason Aldean
-2018-02-23 14:33:45,217 - Travelservice -INFO - Album number68Album name Ward Thomas
-2018-02-23 14:33:48,668 - Travelservice -INFO - Album number69Album name Maren Morris
-2018-02-23 14:33:51,878 - Travelservice -INFO - Album number70Album name Brad Paisley
-2018-02-23 14:33:55,614 - Travelservice -INFO - Album number71Album name Dolly Parton
-2018-02-23 14:33:58,804 - Travelservice -INFO - Album number72Album name Old Crow Medicine Show
-2018-02-23 14:34:02,263 - Travelservice -INFO - Album number73Album name Kenny Chesney
-2018-02-23 14:34:05,595 - Travelservice -INFO - Album number74Album name Old Dominion
-2018-02-23 14:34:08,932 - Travelservice -INFO - Album number75Album name Willie Nelson
-2018-02-23 14:34:12,415 - Travelservice -INFO - Album number76Album name Luke Combs
-2018-02-23 14:34:15,870 - Travelservice -INFO - Album number77Album name Miranda Lambert
-2018-02-23 14:34:20,410 - Travelservice -INFO - Album number78Album name Kelsea Ballerini
-2018-02-23 14:34:24,061 - Travelservice -INFO - Album number79Album name Shakira
-2018-02-23 14:34:27,436 - Travelservice -INFO - Album number80Album name Silbermond
-2018-02-23 14:34:31,232 - Travelservice -INFO - Album number81Album name Giusy Ferreri
-2018-02-23 14:34:34,823 - Travelservice -INFO - Album number82Album name J_ust
-2018-02-23 14:34:38,032 - Travelservice -INFO - Album number83Album name Polock
-2018-02-23 14:34:41,192 - Travelservice -INFO - Album number84Album name Various Artists
-2018-02-23 14:34:45,850 - Travelservice -INFO - Album number85Album name Wizkid
-2018-02-23 14:34:49,167 - Travelservice -INFO - Album number86Album name J.Sheon
-2018-02-23 14:34:52,273 - Travelservice -INFO - Album number87Album name Julien Doré
-2018-02-23 14:34:55,822 - Travelservice -INFO - Album number88Album name Jay Chou
-2018-02-23 14:34:58,955 - Travelservice -INFO - Album number89Album name Marteria
-2018-02-23 14:35:05,343 - Travelservice -INFO - Album number90Album name Bob Marley & The Wailers
-2018-02-23 14:35:09,037 - Travelservice -INFO - Album number91Album name Amy Faithe
-2018-02-23 14:35:11,896 - Travelservice -INFO - Album number92Album name Dyan Garris
-2018-02-23 14:35:18,016 - Travelservice -INFO - Album number93Album name David Wells
-2018-02-23 14:35:21,159 - Travelservice -INFO - Album number94Album name Anaamaly
-2018-02-23 14:35:24,370 - Travelservice -INFO - Album number95Album name Art Patience
-2018-02-23 14:35:27,415 - Travelservice -INFO - Album number96Album name Gary Schmidt
-2018-02-23 14:35:30,890 - Travelservice -INFO - Album number97Album name Ben Carroll
-2018-02-23 14:35:34,099 - Travelservice -INFO - Album number98Album name Jeff Pearce
-2018-02-23 14:35:36,985 - Travelservice -INFO - Album number99Album name John Calvert
-2018-02-23 14:35:40,193 - Travelservice -INFO - Album number100Album name Darin Mahoney
-2018-02-23 14:35:43,173 - Travelservice -INFO - Album number101Album name Michelle Qureshi
-2018-02-23 14:35:46,667 - Travelservice -INFO - Album number102Album name Lisa Swerdlow
-2018-02-23 14:36:52,410 - Travelservice -INFO - Browser Opened
-2018-02-23 14:36:52,418 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:36:58,795 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 14:37:24,234 - Travelservice -INFO - Browser Opened
-2018-02-23 14:37:24,241 - Travelservice -INFO - Implicit wait given
-2018-02-23 14:37:30,694 - Travelservice -INFO - Album number1Album name Kesha
-2018-02-23 14:37:34,703 - Travelservice -INFO - Album number2Album name Harry Styles
-2018-02-23 14:37:38,211 - Travelservice -INFO - Album number3Album name Sia
-2018-02-23 14:37:41,410 - Travelservice -INFO - Album number4Album name Superfruit
-2018-02-23 14:37:44,282 - Travelservice -INFO - Album number5Album name Pentatonix
-2018-02-23 14:37:47,017 - Travelservice -INFO - Album number6Album name Tereza Kerndlova
-2018-02-23 14:37:50,379 - Travelservice -INFO - Album number7Album name Everything Everything
-2018-02-23 14:37:53,662 - Travelservice -INFO - Album number8Album name Zara Larsson
-2018-02-23 14:37:57,172 - Travelservice -INFO - Album number9Album name Debbi
-2018-02-23 14:38:00,397 - Travelservice -INFO - Album number10Album name DJ Khaled
-2018-02-23 14:38:04,621 - Travelservice -INFO - Album number11Album name Pitbull
-2018-02-23 14:38:07,834 - Travelservice -INFO - Album number12Album name Michal David
-2018-02-23 14:38:11,584 - Travelservice -INFO - Album number13Album name Lea Michele
-2018-02-23 14:38:14,741 - Travelservice -INFO - Album number14Album name Michal David
-2018-02-23 14:38:18,480 - Travelservice -INFO - Album number15Album name Little Mix
-2018-02-23 14:38:21,756 - Travelservice -INFO - Album number16Album name Scouting for Girls
-2018-02-23 14:38:24,817 - Travelservice -INFO - Album number17Album name The Shins
-2018-02-23 14:38:28,027 - Travelservice -INFO - Album number18Album name Foo Fighters
-2018-02-23 14:38:31,133 - Travelservice -INFO - Album number19Album name Kings of Leon
-2018-02-23 14:38:34,037 - Travelservice -INFO - Album number20Album name COIN
-2018-02-23 14:38:37,073 - Travelservice -INFO - Album number21Album name CRX
-2018-02-23 14:38:40,104 - Travelservice -INFO - Album number22Album name Brian May + Kerry Ellis
-2018-02-23 14:38:43,423 - Travelservice -INFO - Album number23Album name David Bowie
-2018-02-23 14:38:46,015 - Travelservice -INFO - Album number24Album name Arcade Fire
-2018-02-23 14:38:49,145 - Travelservice -INFO - Album number25Album name Foster the People
-2018-02-23 14:38:52,333 - Travelservice -INFO - Album number26Album name John Mayer
-2018-02-23 14:38:55,509 - Travelservice -INFO - Album number27Album name DREAMCAR
-2018-02-23 14:38:58,658 - Travelservice -INFO - Album number28Album name Dams of the West
-2018-02-23 14:39:01,698 - Travelservice -INFO - Album number29Album name Various Artists
-2018-02-23 14:39:04,891 - Travelservice -INFO - Album number30Album name Marion Treupel-Franck
-2018-02-23 14:39:08,497 - Travelservice -INFO - Album number31Album name Ezio Bosso & Filarmonica Teatro La Fenice
-2018-02-23 14:39:11,453 - Travelservice -INFO - Album number32Album name Natalie Dessay
-2018-02-23 14:39:15,180 - Travelservice -INFO - Album number33Album name 2CELLOS
-2018-02-23 14:39:18,505 - Travelservice -INFO - Album number34Album name Jonas Kaufmann
-2018-02-23 14:39:22,175 - Travelservice -INFO - Album number35Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
-2018-02-23 14:39:25,518 - Travelservice -INFO - Album number36Album name The Piano Guys
-2018-02-23 14:39:28,790 - Travelservice -INFO - Album number37Album name Rudolf Buchbinder
-2018-02-23 14:39:31,984 - Travelservice -INFO - Album number38Album name Simone Dinnerstein
-2018-02-23 14:39:34,692 - Travelservice -INFO - Album number39Album name Tina Guo
-2018-02-23 14:39:38,087 - Travelservice -INFO - Album number40Album name Arcadi Volodos
-2018-02-23 14:39:41,411 - Travelservice -INFO - Album number41Album name Sol Gabetta and Bertrand Chamayou
-2018-02-23 14:39:44,298 - Travelservice -INFO - Album number42Album name Baptiste Trotignon & Yosvany Terry
-2018-02-23 14:39:47,269 - Travelservice -INFO - Album number43Album name Bria Skonberg
-2018-02-23 14:39:50,668 - Travelservice -INFO - Album number44Album name The Bad Plus
-2018-02-23 14:39:53,677 - Travelservice -INFO - Album number45Album name Thelonious Monk
-2018-02-23 14:39:57,706 - Travelservice -INFO - Album number46Album name Preservation Hall Jazz Band
-2018-02-23 14:40:00,397 - Travelservice -INFO - Album number47Album name Weather Report
-2018-02-23 14:40:03,263 - Travelservice -INFO - Album number48Album name James Brandon Lewis
-2018-02-23 14:40:06,200 - Travelservice -INFO - Album number49Album name Duke Ellington & His Famous Orchestra
-2018-02-23 14:40:09,515 - Travelservice -INFO - Album number50Album name Theo Croker
-2018-02-23 14:40:12,836 - Travelservice -INFO - Album number51Album name Somi
-2018-02-23 14:40:16,485 - Travelservice -INFO - Album number52Album name Louis Armstrong
-2018-02-23 14:40:21,076 - Travelservice -INFO - Album number53Album name David Orlowsky Trio
-2018-02-23 14:40:24,129 - Travelservice -INFO - Album number54Album name Michael Jackson
-2018-02-23 14:40:27,263 - Travelservice -INFO - Album number55Album name Aretha Franklin
-2018-02-23 14:40:31,493 - Travelservice -INFO - Album number56Album name Bruce Springsteen
-2018-02-23 14:40:34,723 - Travelservice -INFO - Album number57Album name Frank Sinatra
-2018-02-23 14:40:38,397 - Travelservice -INFO - Album number58Album name George Michael
-2018-02-23 14:40:41,509 - Travelservice -INFO - Album number59Album name Bob Dylan
-2018-02-23 14:40:44,509 - Travelservice -INFO - Album number60Album name Aerosmith
-2018-02-23 14:40:47,296 - Travelservice -INFO - Album number61Album name Tony Bennett
-2018-02-23 14:40:50,502 - Travelservice -INFO - Album number62Album name Fleetwood Mac
-2018-02-23 14:40:54,504 - Travelservice -INFO - Album number63Album name Elvis Presley
-2018-02-23 14:40:57,714 - Travelservice -INFO - Album number64Album name Nina Simone
-2018-02-23 14:41:01,424 - Travelservice -INFO - Album number65Album name Whitney Houston
-2018-02-23 14:41:04,529 - Travelservice -INFO - Album number66Album name Barry Manilow
-2018-02-23 14:41:07,901 - Travelservice -INFO - Album number67Album name Jason Aldean
-2018-02-23 14:41:11,666 - Travelservice -INFO - Album number68Album name Ward Thomas
-2018-02-23 14:41:15,146 - Travelservice -INFO - Album number69Album name Maren Morris
-2018-02-23 14:41:18,367 - Travelservice -INFO - Album number70Album name Brad Paisley
-2018-02-23 14:41:22,100 - Travelservice -INFO - Album number71Album name Dolly Parton
-2018-02-23 14:41:25,414 - Travelservice -INFO - Album number72Album name Old Crow Medicine Show
-2018-02-23 14:41:28,830 - Travelservice -INFO - Album number73Album name Kenny Chesney
-2018-02-23 14:41:31,891 - Travelservice -INFO - Album number74Album name Old Dominion
-2018-02-23 14:41:35,106 - Travelservice -INFO - Album number75Album name Willie Nelson
-2018-02-23 14:41:38,303 - Travelservice -INFO - Album number76Album name Luke Combs
-2018-02-23 14:41:41,532 - Travelservice -INFO - Album number77Album name Miranda Lambert
-2018-02-23 14:41:46,214 - Travelservice -INFO - Album number78Album name Kelsea Ballerini
-2018-02-23 14:41:49,746 - Travelservice -INFO - Album number79Album name Shakira
-2018-02-23 14:41:52,986 - Travelservice -INFO - Album number80Album name Silbermond
-2018-02-23 14:41:56,832 - Travelservice -INFO - Album number81Album name Giusy Ferreri
-2018-02-23 14:42:00,303 - Travelservice -INFO - Album number82Album name J_ust
-2018-02-23 14:42:03,355 - Travelservice -INFO - Album number83Album name Polock
-2018-02-23 14:42:06,472 - Travelservice -INFO - Album number84Album name Various Artists
-2018-02-23 14:42:11,027 - Travelservice -INFO - Album number85Album name Wizkid
-2018-02-23 14:42:14,215 - Travelservice -INFO - Album number86Album name J.Sheon
-2018-02-23 14:42:17,248 - Travelservice -INFO - Album number87Album name Julien Doré
-2018-02-23 14:42:20,491 - Travelservice -INFO - Album number88Album name Jay Chou
-2018-02-23 14:42:23,482 - Travelservice -INFO - Album number89Album name Marteria
-2018-02-23 14:42:29,782 - Travelservice -INFO - Album number90Album name Bob Marley & The Wailers
-2018-02-23 14:42:33,334 - Travelservice -INFO - Album number91Album name Amy Faithe
-2018-02-23 14:42:36,121 - Travelservice -INFO - Album number92Album name Dyan Garris
-2018-02-23 14:42:40,358 - Travelservice -INFO - Album number93Album name David Wells
-2018-02-23 14:42:43,458 - Travelservice -INFO - Album number94Album name Anaamaly
-2018-02-23 14:42:46,586 - Travelservice -INFO - Album number95Album name Art Patience
-2018-02-23 14:42:49,509 - Travelservice -INFO - Album number96Album name Gary Schmidt
-2018-02-23 14:42:52,817 - Travelservice -INFO - Album number97Album name Ben Carroll
-2018-02-23 14:42:55,912 - Travelservice -INFO - Album number98Album name Jeff Pearce
-2018-02-23 14:42:58,685 - Travelservice -INFO - Album number99Album name John Calvert
-2018-02-23 14:43:01,750 - Travelservice -INFO - Album number100Album name Darin Mahoney
-2018-02-23 14:43:04,651 - Travelservice -INFO - Album number101Album name Michelle Qureshi
-2018-02-23 14:43:08,054 - Travelservice -INFO - Album number102Album name Lisa Swerdlow
+2018-04-24 15:20:43,197 - Travelservice -INFO - Browser Opened
+2018-04-24 15:20:43,236 - Travelservice -INFO - Implicit wait given
+2018-04-24 15:20:54,250 - Travelservice -INFO - Album number1Album name Pitbull
+2018-04-24 15:20:57,639 - Travelservice -INFO - Album number2Album name Kesha
+2018-04-24 15:21:03,196 - Travelservice -INFO - Album number3Album name Michal David
+2018-04-24 15:21:10,216 - Travelservice -INFO - Album number4Album name Debbi
+2018-04-24 15:21:14,878 - Travelservice -INFO - Album number5Album name Lea Michele
+2018-04-24 15:21:19,713 - Travelservice -INFO - Album number6Album name Harry Styles
+2018-04-24 15:21:23,627 - Travelservice -INFO - Album number7Album name DJ Khaled
+2018-04-24 15:21:28,962 - Travelservice -INFO - Album number8Album name Little Mix
+2018-04-24 15:21:32,384 - Travelservice -INFO - Album number9Album name Sia
+2018-04-24 15:21:36,352 - Travelservice -INFO - Album number10Album name Superfruit
+2018-04-24 15:21:39,038 - Travelservice -INFO - Album number11Album name Everything Everything
+2018-04-24 15:21:42,217 - Travelservice -INFO - Album number12Album name Pentatonix
+2018-04-24 15:21:45,478 - Travelservice -INFO - Album number13Album name Michal David
+2018-04-24 15:21:50,247 - Travelservice -INFO - Album number14Album name Zara Larsson
+2018-04-24 15:21:54,138 - Travelservice -INFO - Album number15Album name Tereza Kerndlova
+2018-04-24 15:21:57,914 - Travelservice -INFO - Album number16Album name Paloma Faith
+2018-04-24 15:22:02,485 - Travelservice -INFO - Album number17Album name Miley Cyrus
+2018-04-24 15:22:05,674 - Travelservice -INFO - Album number18Album name Superfruit
+2018-04-24 15:22:09,795 - Travelservice -INFO - Album number19Album name Fifth Harmony
+2018-04-24 15:22:12,453 - Travelservice -INFO - Album number20Album name Matt Terry
+2018-04-24 15:22:16,083 - Travelservice -INFO - Album number21Album name 5 After Midnight
+2018-04-24 15:22:18,362 - Travelservice -INFO - Album number22Album name Kygo
+2018-04-24 15:22:20,657 - Travelservice -INFO - Album number23Album name Grace VanderWaal
+2018-04-24 15:22:24,243 - Travelservice -INFO - Album number24Album name Skinny Living
+2018-04-24 15:22:26,695 - Travelservice -INFO - Album number25Album name Whitney Houston
+2018-04-24 15:22:30,386 - Travelservice -INFO - Album number26Album name Jacob Sartorius
+2018-04-24 15:22:32,858 - Travelservice -INFO - Album number27Album name The Lone Bellow
+2018-04-24 15:22:36,267 - Travelservice -INFO - Album number28Album name Tone Stith
+2018-04-24 15:22:39,882 - Travelservice -INFO - Album number29Album name Tom Grennan
+2018-04-24 15:22:42,922 - Travelservice -INFO - Album number30Album name Morgan Saint
+2018-04-24 15:22:45,725 - Travelservice -INFO - Album number31Album name Boyz II Men
+2018-04-24 15:22:49,157 - Travelservice -INFO - Album number32Album name Bleachers
+2018-04-24 15:22:53,077 - Travelservice -INFO - Album number33Album name Kygo
+2018-04-24 15:22:56,023 - Travelservice -INFO - Album number34Album name Rachel Platten
+2018-04-24 15:22:59,664 - Travelservice -INFO - Album number35Album name Frank Sinatra
+2018-04-24 15:23:04,258 - Travelservice -INFO - Album number36Album name Aretha Franklin
+2018-04-24 15:23:09,174 - Travelservice -INFO - Album number37Album name Michael Jackson
+2018-04-24 15:23:12,491 - Travelservice -INFO - Album number38Album name Barry Manilow
+2018-04-24 15:23:16,882 - Travelservice -INFO - Album number39Album name Fleetwood Mac
+2018-04-24 15:23:21,646 - Travelservice -INFO - Album number40Album name Tony Bennett
+2018-04-24 15:23:25,770 - Travelservice -INFO - Album number41Album name Elvis Presley
+2018-04-24 15:23:29,993 - Travelservice -INFO - Album number42Album name Bruce Springsteen
+2018-04-24 15:23:35,339 - Travelservice -INFO - Album number43Album name Whitney Houston
+2018-04-24 15:23:38,658 - Travelservice -INFO - Album number44Album name George Michael
+2018-04-24 15:23:42,313 - Travelservice -INFO - Album number45Album name Nina Simone
+2018-04-24 15:23:46,944 - Travelservice -INFO - Album number46Album name Bob Dylan
+2018-04-24 15:23:49,942 - Travelservice -INFO - Album number47Album name Aerosmith
+2018-04-24 15:23:53,245 - Travelservice -INFO - Album number48Album name Michael Jackson
+2018-04-24 15:23:57,126 - Travelservice -INFO - Album number49Album name AC/DC
+2018-04-24 15:24:00,823 - Travelservice -INFO - Album number50Album name Simon & Garfunkel
+2018-04-24 15:24:04,651 - Travelservice -INFO - Album number51Album name Cyndi Lauper
+2018-04-24 15:24:07,812 - Travelservice -INFO - Album number52Album name Tony Bennett
+2018-04-24 15:24:11,303 - Travelservice -INFO - Album number53Album name Gladys Knight & The Pips
+2018-04-24 15:24:14,473 - Travelservice -INFO - Album number54Album name Barbra Streisand
+2018-04-24 15:24:18,023 - Travelservice -INFO - Album number55Album name Sly & The Family Stone
+2018-04-24 15:24:22,886 - Travelservice -INFO - Album number56Album name Billy Joel
+2018-04-24 15:24:25,918 - Travelservice -INFO - Album number57Album name Whitney Houston
+2018-04-24 15:24:29,167 - Travelservice -INFO - Album number58Album name Roy Orbison
+2018-04-24 15:24:32,513 - Travelservice -INFO - Album number59Album name Wham!
+2018-04-24 15:24:36,077 - Travelservice -INFO - Album number60Album name Bruce Springsteen
+2018-04-24 15:24:39,304 - Travelservice -INFO - Album number61Album name Jimi Hendrix
+2018-04-24 15:24:43,159 - Travelservice -INFO - Album number62Album name Eurythmics
+2018-04-24 15:24:47,483 - Travelservice -INFO - Album number63Album name George Michael
+2018-04-24 15:24:51,090 - Travelservice -INFO - Album number64Album name Kylie Minogue
+2018-04-24 15:24:54,393 - Travelservice -INFO - Album number65Album name Bill Withers
+2018-04-24 15:24:58,033 - Travelservice -INFO - Album number66Album name Daryl Hall & John Oates
+2018-04-24 15:25:02,020 - Travelservice -INFO - Album number67Album name Polock
+2018-04-24 15:25:05,258 - Travelservice -INFO - Album number68Album name Marteria
+2018-04-24 15:25:08,884 - Travelservice -INFO - Album number69Album name Giusy Ferreri
+2018-04-24 15:25:12,921 - Travelservice -INFO - Album number70Album name J.Sheon
+2018-04-24 15:25:16,424 - Travelservice -INFO - Album number71Album name J_ust
+2018-04-24 15:25:19,828 - Travelservice -INFO - Album number72Album name Silbermond
+2018-04-24 15:25:24,796 - Travelservice -INFO - Album number73Album name Bob Marley & The Wailers
+2018-04-24 15:25:29,514 - Travelservice -INFO - Album number74Album name Jay Chou
+2018-04-24 15:25:33,087 - Travelservice -INFO - Album number75Album name Wizkid
+2018-04-24 15:25:36,718 - Travelservice -INFO - Album number76Album name Julien Doré
+2018-04-24 15:25:40,582 - Travelservice -INFO - Album number77Album name Shakira
+2018-04-24 15:25:45,112 - Travelservice -INFO - Album number78Album name Various Artists
+2018-04-24 15:25:51,618 - Travelservice -INFO - Album number79Album name Silbermond
+2018-04-24 15:25:55,803 - Travelservice -INFO - Album number80Album name Christophe Willem
+2018-04-24 15:26:00,641 - Travelservice -INFO - Album number81Album name Kaylow
+2018-04-24 15:26:04,602 - Travelservice -INFO - Album number82Album name Jeff Pearce
+2018-04-24 15:26:07,443 - Travelservice -INFO - Album number83Album name Kalyanji - Anandji
+2018-04-24 15:26:10,535 - Travelservice -INFO - Album number84Album name Marcus & Martinus
+2018-04-24 15:26:13,812 - Travelservice -INFO - Album number85Album name Vanessa Mai
+2018-04-24 15:26:18,264 - Travelservice -INFO - Album number86Album name Daria Zawialow
+2018-04-24 15:26:23,261 - Travelservice -INFO - Album number87Album name EXID
+2018-04-24 15:26:26,369 - Travelservice -INFO - Album number88Album name Nneka
+2018-04-24 15:26:30,796 - Travelservice -INFO - Album number89Album name Gianna Nannini
+2018-04-24 15:26:35,301 - Travelservice -INFO - Album number90Album name Jason Chan
+2018-04-24 15:26:38,488 - Travelservice -INFO - Album number91Album name Ania Dabrowska
+2018-04-24 15:26:42,212 - Travelservice -INFO - Album number92Album name Eros Ramazzotti
+2018-04-24 15:26:45,781 - Travelservice -INFO - Album number93Album name Wisin
+2018-04-24 15:26:50,343 - Travelservice -INFO - Album number94Album name Indochine
+2018-04-24 15:26:56,368 - Travelservice -INFO - Album number95Album name Danny Summer
+2018-04-24 15:26:59,712 - Travelservice -INFO - Album number96Album name Christy Moore
+2018-04-24 15:27:02,516 - Travelservice -INFO - http://ifd.aero/qsa051812516ma.mp3 - Internal Server Error
+2018-04-24 15:27:05,772 - Travelservice -INFO - Album number97Album name Luis Coronel
+2018-04-24 15:27:09,434 - Travelservice -INFO - Album number98Album name Michelle Qureshi
+2018-04-24 15:27:13,429 - Travelservice -INFO - Album number99Album name Anaamaly
+2018-04-24 15:27:17,137 - Travelservice -INFO - Album number100Album name Dyan Garris
+2018-04-24 15:27:21,341 - Travelservice -INFO - Album number101Album name Ben Carroll
+2018-04-24 15:27:24,912 - Travelservice -INFO - Album number102Album name Gary Schmidt
+2018-04-24 15:27:28,822 - Travelservice -INFO - Album number103Album name Jeff Pearce
+2018-04-24 15:27:31,511 - Travelservice -INFO - Album number104Album name Amy Faithe
+2018-04-24 15:27:34,103 - Travelservice -INFO - Album number105Album name Lisa Swerdlow
+2018-04-24 15:27:37,404 - Travelservice -INFO - Album number106Album name John Calvert
+2018-04-24 15:27:41,436 - Travelservice -INFO - Album number107Album name Darin Mahoney
+2018-04-24 15:27:44,321 - Travelservice -INFO - Album number108Album name Art Patience
+2018-04-24 15:27:48,286 - Travelservice -INFO - Album number109Album name David Wells
+2018-04-24 15:27:51,618 - Travelservice -INFO - Album number110Album name Camille Nelson
+2018-04-24 15:27:55,411 - Travelservice -INFO - Album number111Album name Trialogue
+2018-04-24 15:27:58,871 - Travelservice -INFO - Album number112Album name Michael Kollwitz
+2018-04-24 15:28:03,058 - Travelservice -INFO - Album number113Album name Matthew Mayer
+2018-04-24 15:28:06,816 - Travelservice -INFO - Album number114Album name Philip Shpartov
+2018-04-24 15:28:09,669 - Travelservice -INFO - Album number115Album name Dan Chadburn
+2018-04-24 15:28:13,628 - Travelservice -INFO - Album number116Album name Ken Elkinson
+2018-04-24 15:28:17,104 - Travelservice -INFO - Album number117Album name Holland Phillips
+2018-04-24 15:28:20,487 - Travelservice -INFO - Album number118Album name Rachel Currea
+2018-04-24 15:28:24,207 - Travelservice -INFO - Album number119Album name Michael Kent Smith
+2018-04-24 15:28:28,338 - Travelservice -INFO - Album number120Album name Robert Slap
+2018-04-24 15:28:31,424 - Travelservice -INFO - Album number121Album name Richard Dillon
+2018-04-24 15:28:35,273 - Travelservice -INFO - Album number122Album name Joseph Akins
+2018-04-24 15:28:39,169 - Travelservice -INFO - Album number123Album name Shoshana Michel
+2018-04-24 15:28:42,681 - Travelservice -INFO - Album number124Album name Lynn Tredeau
+2018-04-24 15:28:46,154 - Travelservice -INFO - Album number125Album name Al Jewer Andy Mitran
+2018-04-24 15:28:49,514 - Travelservice -INFO - Album number126Album name Tom Moore/Sherry Finzer
+2018-04-24 15:28:52,739 - Travelservice -INFO - Album number127Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-04-24 15:28:56,102 - Travelservice -INFO - Album number128Album name Marion Treupel-Franck
+2018-04-24 15:29:00,920 - Travelservice -INFO - Album number129Album name Various Artists
+2018-04-24 15:29:05,532 - Travelservice -INFO - Album number130Album name Rudolf Buchbinder
+2018-04-24 15:29:09,734 - Travelservice -INFO - Album number131Album name Jonas Kaufmann
+2018-04-24 15:29:14,416 - Travelservice -INFO - Album number132Album name Tina Guo
+2018-04-24 15:29:18,481 - Travelservice -INFO - Album number133Album name Arcadi Volodos
+2018-04-24 15:29:22,658 - Travelservice -INFO - Album number134Album name Natalie Dessay
+2018-04-24 15:29:27,351 - Travelservice -INFO - Album number135Album name Sol Gabetta and Bertrand Chamayou
+2018-04-24 15:29:30,637 - Travelservice -INFO - Album number136Album name 2CELLOS
+2018-04-24 15:29:34,671 - Travelservice -INFO - Album number137Album name Simone Dinnerstein
+2018-04-24 15:29:37,906 - Travelservice -INFO - Album number138Album name The Piano Guys
+2018-04-24 15:29:41,857 - Travelservice -INFO - Album number139Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
+2018-04-24 15:29:46,041 - Travelservice -INFO - Album number140Album name Natalie Dessay
+2018-04-24 15:29:51,660 - Travelservice -INFO - Album number141Album name Jonas Kaufmann
+2018-04-24 15:29:55,884 - Travelservice -INFO - Album number142Album name Yaara Tal
+2018-04-24 15:29:59,776 - Travelservice -INFO - Album number143Album name Gábor Boldoczki
+2018-04-24 15:30:04,185 - Travelservice -INFO - Album number144Album name Lionel Cottet
+2018-04-24 15:30:08,849 - Travelservice -INFO - Album number145Album name Oliver Schnyder
+2018-04-24 15:30:13,978 - Travelservice -INFO - Album number146Album name Michael Sanderling
+2018-04-24 15:30:17,186 - Travelservice -INFO - Album number147Album name Philippe Cassard
+2018-04-24 15:30:22,019 - Travelservice -INFO - Album number148Album name Sergio Azzolini
+2018-04-24 15:30:26,151 - Travelservice -INFO - Album number149Album name Martin Fröst
+2018-04-24 15:30:29,268 - Travelservice -INFO - Album number150Album name Daria van den Bercken
+2018-04-24 15:30:34,021 - Travelservice -INFO - Album number151Album name Francesco Grillo
+2018-04-24 15:30:39,153 - Travelservice -INFO - Album number152Album name Benjamin Richter
+2018-04-24 15:30:42,960 - Travelservice -INFO - Album number153Album name Teodor Currentzis
+2018-04-24 15:30:45,410 - Travelservice -INFO - Album number154Album name Pretty Yende
+2018-04-24 15:30:49,552 - Travelservice -INFO - Album number155Album name Nils Mönkemeyer
+2018-04-24 15:30:52,471 - Travelservice -INFO - Album number156Album name Leif Ove Andsnes
+2018-04-24 15:30:59,112 - Travelservice -INFO - Album number157Album name Lang Lang
+2018-04-24 15:31:04,285 - Travelservice -INFO - Album number158Album name Olga Scheps
+2018-04-24 15:31:08,530 - Travelservice -INFO - Album number159Album name Baptiste Trotignon & Yosvany Terry
+2018-04-24 15:31:12,354 - Travelservice -INFO - Album number160Album name Weather Report
+2018-04-24 15:31:17,316 - Travelservice -INFO - Album number161Album name Preservation Hall Jazz Band
+2018-04-24 15:31:20,246 - Travelservice -INFO - Album number162Album name Theo Croker
+2018-04-24 15:31:24,604 - Travelservice -INFO - Album number163Album name Thelonious Monk
+2018-04-24 15:31:31,066 - Travelservice -INFO - Album number164Album name Somi
+2018-04-24 15:31:35,599 - Travelservice -INFO - Album number165Album name Bria Skonberg
+2018-04-24 15:31:40,073 - Travelservice -INFO - Album number166Album name Louis Armstrong
+2018-04-24 15:31:47,087 - Travelservice -INFO - Album number167Album name Duke Ellington & His Famous Orchestra
+2018-04-24 15:31:51,470 - Travelservice -INFO - Album number168Album name James Brandon Lewis
+2018-04-24 15:31:54,911 - Travelservice -INFO - Album number169Album name The Bad Plus
+2018-04-24 15:31:58,799 - Travelservice -INFO - Album number170Album name David Orlowsky Trio
+2018-04-24 15:32:02,929 - Travelservice -INFO - Album number171Album name Avishai Cohen
+2018-04-24 15:32:06,962 - Travelservice -INFO - Album number172Album name Herbie Hancock
+2018-04-24 15:32:09,834 - Travelservice -INFO - Album number173Album name Branford Marsalis Quartet
+2018-04-24 15:32:13,142 - Travelservice -INFO - Album number174Album name Weather Report
+2018-04-24 15:32:16,521 - Travelservice -INFO - Album number175Album name Keyon Harrold
+2018-04-24 15:32:21,296 - Travelservice -INFO - Album number176Album name Billie Holiday
+2018-04-24 15:32:27,007 - Travelservice -INFO - Album number177Album name Miles Davis
+2018-04-24 15:32:29,581 - Travelservice -INFO - Album number178Album name Louis Armstrong & His Hot Fives
+2018-04-24 15:32:34,618 - Travelservice -INFO - Album number179Album name Markus Stockhausen
+2018-04-24 15:32:38,449 - Travelservice -INFO - Album number180Album name Charles Mingus
+2018-04-24 15:32:42,366 - Travelservice -INFO - Album number181Album name Dee Dee Bridgewater
+2018-04-24 15:32:46,553 - Travelservice -INFO - Album number182Album name Thelonious Monk
+2018-04-24 15:32:49,583 - Travelservice -INFO - Album number183Album name Stacey Kent
+2018-04-24 15:32:54,018 - Travelservice -INFO - Album number184Album name Benny Goodman and His Orchestra
+2018-04-24 15:33:04,876 - Travelservice -INFO - Album number185Album name Preservation Hall Jazz Band
+2018-04-24 15:33:13,856 - Travelservice -INFO - Album number186Album name Lyambiko
+2018-04-24 15:33:18,506 - Travelservice -INFO - Album number187Album name Duke Ellington & His Washingtonians
+2018-04-24 15:33:24,377 - Travelservice -INFO - Album number188Album name Dave Brubeck
+2018-04-24 15:33:29,412 - Travelservice -INFO - Album number189Album name Dams of the West
+2018-04-24 15:33:33,628 - Travelservice -INFO - Album number190Album name The Shins
+2018-04-24 15:33:37,835 - Travelservice -INFO - Album number191Album name Arcade Fire
+2018-04-24 15:33:43,155 - Travelservice -INFO - Album number192Album name Brian May + Kerry Ellis
+2018-04-24 15:33:48,138 - Travelservice -INFO - Album number193Album name COIN
+2018-04-24 15:33:52,218 - Travelservice -INFO - Album number194Album name Foo Fighters
+2018-04-24 15:33:56,341 - Travelservice -INFO - Album number195Album name David Bowie
+2018-04-24 15:33:58,823 - Travelservice -INFO - Album number196Album name DREAMCAR
+2018-04-24 15:34:05,550 - Travelservice -INFO - Album number197Album name Scouting for Girls
+2018-04-24 15:34:10,456 - Travelservice -INFO - Album number198Album name CRX
+2018-04-24 15:34:14,032 - Travelservice -INFO - Album number199Album name John Mayer
+2018-04-24 15:34:17,975 - Travelservice -INFO - Album number200Album name Foster the People
+2018-04-24 15:34:22,244 - Travelservice -INFO - Album number201Album name Kings of Leon
+2018-04-24 15:34:25,647 - Travelservice -INFO - Album number202Album name The Isley Brothers
+2018-04-24 15:34:30,371 - Travelservice -INFO - Album number203Album name Foo Fighters
+2018-04-24 15:34:35,206 - Travelservice -INFO - Album number204Album name Glassjaw
+2018-04-24 15:34:39,307 - Travelservice -INFO - Album number205Album name David Bowie
+2018-04-24 15:34:44,405 - Travelservice -INFO - Album number206Album name Manic Street Preachers
+2018-04-24 15:34:48,411 - Travelservice -INFO - Album number207Album name Jeff Lynne's ELO
+2018-04-24 15:34:55,186 - Travelservice -INFO - Album number208Album name Toto
+2018-04-24 15:35:01,107 - Travelservice -INFO - Album number209Album name Mallory Knox
+2018-04-24 15:35:03,641 - Travelservice -INFO - Album number210Album name Nothing But Thieves
+2018-04-24 15:35:07,563 - Travelservice -INFO - Album number211Album name Scorpions
+2018-04-24 15:35:12,592 - Travelservice -INFO - Album number212Album name Kasabian
+2018-04-24 15:35:16,302 - Travelservice -INFO - Album number213Album name Roy Orbison
+2018-04-24 15:35:21,526 - Travelservice -INFO - Album number214Album name Arcade Fire
+2018-04-24 15:35:25,600 - Travelservice -INFO - Album number215Album name Kodaline
+2018-04-24 15:35:28,195 - Travelservice -INFO - Album number216Album name Grizzly Bear
+2018-04-24 15:35:32,270 - Travelservice -INFO - Album number217Album name Foster The People
+2018-04-24 15:35:36,093 - Travelservice -INFO - Album number218Album name Cage The Elephant
+2018-04-24 15:35:42,421 - Travelservice -INFO - Album number219Album name Kings Of Leon
+2018-04-24 15:35:46,553 - Travelservice -INFO - Album number220Album name Joe Satriani
+2018-04-24 15:35:51,789 - Travelservice -INFO - Album number221Album name Miranda Lambert
+2018-04-24 15:35:58,504 - Travelservice -INFO - Album number222Album name Ward Thomas
+2018-04-24 15:36:03,157 - Travelservice -INFO - Album number223Album name Jason Aldean
+2018-04-24 15:36:07,824 - Travelservice -INFO - Album number224Album name Old Crow Medicine Show
+2018-04-24 15:36:12,463 - Travelservice -INFO - Album number225Album name Kenny Chesney
+2018-04-24 15:36:16,702 - Travelservice -INFO - Album number226Album name Brad Paisley
+2018-04-24 15:36:22,626 - Travelservice -INFO - Album number227Album name Old Dominion
+2018-04-24 15:36:26,958 - Travelservice -INFO - Album number228Album name Maren Morris
+2018-04-24 15:36:31,115 - Travelservice -INFO - Album number229Album name Luke Combs
+2018-04-24 15:36:35,182 - Travelservice -INFO - Album number230Album name Dolly Parton
+2018-04-24 15:36:39,218 - Travelservice -INFO - Album number231Album name Willie Nelson
+2018-04-24 15:36:44,062 - Travelservice -INFO - Album number232Album name Kelsea Ballerini
+2018-04-24 15:36:49,374 - Travelservice -INFO - Album number233Album name Jessie James Decker
+2018-04-24 15:36:53,714 - Travelservice -INFO - Album number234Album name Waylon Jennings
+2018-04-24 15:36:57,829 - Travelservice -INFO - Album number235Album name Chris Young
+2018-04-24 15:37:01,655 - Travelservice -INFO - Album number236Album name Johnny Cash
+2018-04-24 15:37:06,256 - Travelservice -INFO - Album number237Album name Home Free
+2018-04-24 15:37:10,968 - Travelservice -INFO - Album number238Album name Levon
+2018-04-24 15:37:13,758 - Travelservice -INFO - Album number239Album name Dolly Parton
+2018-04-24 15:37:17,787 - Travelservice -INFO - Album number240Album name Merle Haggard
+2018-04-24 15:37:22,392 - Travelservice -INFO - Album number241Album name The Highwaymen
+2018-04-24 15:37:26,477 - Travelservice -INFO - Album number242Album name Willie Nelson
+2018-04-24 15:37:30,820 - Travelservice -INFO - Album number243Album name Ryan Hurd
+2018-04-24 15:37:33,433 - Travelservice -INFO - Album number244Album name Carrie Underwood
+2018-04-24 15:37:37,770 - Travelservice -INFO - Album number245Album name Russell Dickerson
+2018-04-24 15:37:42,269 - Travelservice -INFO - Album number246Album name Jake Owen
+2018-04-24 15:37:47,050 - Travelservice -INFO - Album number247Album name Miranda Lambert
+2018-04-24 15:37:52,141 - Travelservice -INFO - Album number248Album name Kenny Chesney
+2018-04-24 15:38:00,407 - Travelservice -INFO - Album number249Album name Tim McGraw
+2018-04-24 15:38:04,280 - Travelservice -INFO - Album number250Album name Kane Brown
+2018-05-10 12:28:34,868 - Travelservice -INFO - Browser Opened
+2018-05-10 12:28:34,894 - Travelservice -INFO - Implicit wait given
+2018-05-10 12:28:41,757 - Travelservice -INFO - Album number1Album name Pitbull
+2018-05-10 12:28:45,632 - Travelservice -INFO - Album number2Album name Kesha
+2018-05-10 12:28:51,483 - Travelservice -INFO - Album number3Album name Michal David
+2018-05-10 12:28:58,846 - Travelservice -INFO - Album number4Album name Debbi
+2018-05-10 12:29:03,442 - Travelservice -INFO - Album number5Album name Lea Michele
+2018-05-10 12:29:08,162 - Travelservice -INFO - Album number6Album name Harry Styles
+2018-05-10 12:29:12,136 - Travelservice -INFO - Album number7Album name DJ Khaled
+2018-05-10 12:29:17,015 - Travelservice -INFO - Album number8Album name Little Mix
+2018-05-10 12:29:20,775 - Travelservice -INFO - Album number9Album name Sia
+2018-05-10 12:29:24,126 - Travelservice -INFO - Album number10Album name Superfruit
+2018-05-10 12:29:26,721 - Travelservice -INFO - Album number11Album name Everything Everything
+2018-05-10 12:29:29,795 - Travelservice -INFO - Album number12Album name Pentatonix
+2018-05-10 12:29:32,323 - Travelservice -INFO - Album number13Album name Michal David
+2018-05-10 12:29:36,564 - Travelservice -INFO - Album number14Album name Zara Larsson
+2018-05-10 12:29:40,243 - Travelservice -INFO - Album number15Album name Tereza Kerndlova
+2018-05-10 12:29:43,522 - Travelservice -INFO - Album number16Album name Paloma Faith
+2018-05-10 12:29:47,752 - Travelservice -INFO - Album number17Album name Miley Cyrus
+2018-05-10 12:29:51,290 - Travelservice -INFO - Album number18Album name Superfruit
+2018-05-10 12:29:55,134 - Travelservice -INFO - Album number19Album name Fifth Harmony
+2018-05-10 12:29:57,826 - Travelservice -INFO - Album number20Album name Matt Terry
+2018-05-10 12:30:01,610 - Travelservice -INFO - Album number21Album name 5 After Midnight
+2018-05-10 12:30:03,910 - Travelservice -INFO - Album number22Album name Kygo
+2018-05-10 12:30:06,145 - Travelservice -INFO - Album number23Album name Grace VanderWaal
+2018-05-10 12:30:09,978 - Travelservice -INFO - Album number24Album name Skinny Living
+2018-05-10 12:30:12,212 - Travelservice -INFO - Album number25Album name Whitney Houston
+2018-05-10 12:30:15,950 - Travelservice -INFO - Album number26Album name Jacob Sartorius
+2018-05-10 12:30:18,559 - Travelservice -INFO - Album number27Album name The Lone Bellow
+2018-05-10 12:30:21,889 - Travelservice -INFO - Album number28Album name Tone Stith
+2018-05-10 12:30:25,741 - Travelservice -INFO - Album number29Album name Tom Grennan
+2018-05-10 12:30:28,908 - Travelservice -INFO - Album number30Album name Morgan Saint
+2018-05-10 12:30:31,175 - Travelservice -INFO - Album number31Album name Boyz II Men
+2018-05-10 12:30:34,199 - Travelservice -INFO - Album number32Album name Bleachers
+2018-05-10 12:30:37,661 - Travelservice -INFO - Album number33Album name Kygo
+2018-05-10 12:30:40,982 - Travelservice -INFO - Album number34Album name Rachel Platten
+2018-05-10 12:30:44,696 - Travelservice -INFO - Album number35Album name Frank Sinatra
+2018-05-10 12:30:49,064 - Travelservice -INFO - Album number36Album name Aretha Franklin
+2018-05-10 12:30:53,798 - Travelservice -INFO - Album number37Album name Michael Jackson
+2018-05-10 12:30:57,174 - Travelservice -INFO - Album number38Album name Barry Manilow
+2018-05-10 12:31:02,003 - Travelservice -INFO - Album number39Album name Fleetwood Mac
+2018-05-10 12:31:07,434 - Travelservice -INFO - Album number40Album name Tony Bennett
+2018-05-10 12:31:11,320 - Travelservice -INFO - Album number41Album name Elvis Presley
+2018-05-10 12:31:15,142 - Travelservice -INFO - Album number42Album name Bruce Springsteen
+2018-05-10 12:31:19,053 - Travelservice -INFO - Album number43Album name Whitney Houston
+2018-05-10 12:31:22,927 - Travelservice -INFO - Album number44Album name George Michael
+2018-05-10 12:31:26,800 - Travelservice -INFO - Album number45Album name Nina Simone
+2018-05-10 12:31:32,419 - Travelservice -INFO - Album number46Album name Bob Dylan
+2018-05-10 12:31:36,213 - Travelservice -INFO - Album number47Album name Aerosmith
+2018-05-10 12:31:39,108 - Travelservice -INFO - Album number48Album name Michael Jackson
+2018-05-10 12:31:42,658 - Travelservice -INFO - Album number49Album name AC/DC
+2018-05-10 12:31:46,273 - Travelservice -INFO - Album number50Album name Simon & Garfunkel
+2018-05-10 12:31:49,832 - Travelservice -INFO - Album number51Album name Cyndi Lauper
+2018-05-10 12:31:53,367 - Travelservice -INFO - Album number52Album name Tony Bennett
+2018-05-10 12:31:57,480 - Travelservice -INFO - Album number53Album name Gladys Knight & The Pips
+2018-05-10 12:32:01,072 - Travelservice -INFO - Album number54Album name Barbra Streisand
+2018-05-10 12:32:05,194 - Travelservice -INFO - Album number55Album name Sly & The Family Stone
+2018-05-10 12:32:10,587 - Travelservice -INFO - Album number56Album name Billy Joel
+2018-05-10 12:32:14,232 - Travelservice -INFO - Album number57Album name Whitney Houston
+2018-05-10 12:32:18,586 - Travelservice -INFO - Album number58Album name Roy Orbison
+2018-05-10 12:32:22,272 - Travelservice -INFO - Album number59Album name Wham!
+2018-05-10 12:32:26,166 - Travelservice -INFO - Album number60Album name Bruce Springsteen
+2018-05-10 12:32:30,151 - Travelservice -INFO - Album number61Album name Jimi Hendrix
+2018-05-10 12:32:35,021 - Travelservice -INFO - Album number62Album name Eurythmics
+2018-05-10 12:32:39,903 - Travelservice -INFO - Album number63Album name George Michael
+2018-05-10 12:32:43,923 - Travelservice -INFO - Album number64Album name Kylie Minogue
+2018-05-10 12:32:47,382 - Travelservice -INFO - Album number65Album name Bill Withers
+2018-05-10 12:32:52,385 - Travelservice -INFO - Album number66Album name Daryl Hall & John Oates
+2018-05-10 12:32:56,840 - Travelservice -INFO - Album number67Album name Polock
+2018-05-10 12:33:00,752 - Travelservice -INFO - Album number68Album name Marteria
+2018-05-10 12:33:04,906 - Travelservice -INFO - Album number69Album name Giusy Ferreri
+2018-05-10 12:33:09,889 - Travelservice -INFO - Album number70Album name J.Sheon
+2018-05-10 12:33:13,912 - Travelservice -INFO - Album number71Album name J_ust
+2018-05-10 12:33:18,057 - Travelservice -INFO - Album number72Album name Silbermond
+2018-05-10 12:33:23,836 - Travelservice -INFO - Album number73Album name Bob Marley & The Wailers
+2018-05-10 12:33:29,776 - Travelservice -INFO - Album number74Album name Jay Chou
+2018-05-10 12:33:33,211 - Travelservice -INFO - Album number75Album name Wizkid
+2018-05-10 12:33:37,718 - Travelservice -INFO - Album number76Album name Julien Doré
+2018-05-10 12:33:42,647 - Travelservice -INFO - Album number77Album name Shakira
+2018-05-10 12:33:47,441 - Travelservice -INFO - Album number78Album name Various Artists
+2018-05-10 12:33:56,658 - Travelservice -INFO - Album number79Album name Silbermond
+2018-05-10 12:34:01,679 - Travelservice -INFO - Album number80Album name Christophe Willem
+2018-05-10 12:34:07,906 - Travelservice -INFO - Album number81Album name Kaylow
+2018-05-10 12:34:12,807 - Travelservice -INFO - Album number82Album name Jeff Pearce
+2018-05-10 12:34:16,227 - Travelservice -INFO - Album number83Album name Kalyanji - Anandji
+2018-05-10 12:34:20,091 - Travelservice -INFO - Album number84Album name Marcus & Martinus
+2018-05-10 12:34:24,596 - Travelservice -INFO - Album number85Album name Vanessa Mai
+2018-05-10 12:34:30,509 - Travelservice -INFO - Album number86Album name Daria Zawialow
+2018-05-10 12:34:37,022 - Travelservice -INFO - Album number87Album name EXID
+2018-05-10 12:34:40,154 - Travelservice -INFO - Album number88Album name Nneka
+2018-05-10 12:34:46,686 - Travelservice -INFO - Album number89Album name Gianna Nannini
+2018-05-10 12:34:52,414 - Travelservice -INFO - Album number90Album name Jason Chan
+2018-05-10 12:34:56,197 - Travelservice -INFO - Album number91Album name Ania Dabrowska
+2018-05-10 12:35:01,712 - Travelservice -INFO - Album number92Album name Eros Ramazzotti
+2018-05-10 12:35:07,109 - Travelservice -INFO - Album number93Album name Wisin
+2018-05-10 12:35:14,000 - Travelservice -INFO - Album number94Album name Indochine
+2018-05-10 12:35:21,465 - Travelservice -INFO - Album number95Album name Danny Summer
+2018-05-10 12:35:25,881 - Travelservice -INFO - Album number96Album name Christy Moore
+2018-05-10 12:35:34,271 - Travelservice -INFO - Album number97Album name Luis Coronel
+2018-05-10 12:35:39,250 - Travelservice -INFO - Album number98Album name Michelle Qureshi
+2018-05-10 12:35:44,673 - Travelservice -INFO - Album number99Album name Anaamaly
+2018-05-10 12:35:49,666 - Travelservice -INFO - Album number100Album name Dyan Garris
+2018-05-10 12:35:54,704 - Travelservice -INFO - Album number101Album name Ben Carroll
+2018-05-10 12:35:59,422 - Travelservice -INFO - Album number102Album name Gary Schmidt
+2018-05-10 12:36:05,173 - Travelservice -INFO - Album number103Album name Jeff Pearce
+2018-05-10 12:36:08,817 - Travelservice -INFO - Album number104Album name Amy Faithe
+2018-05-10 12:36:12,744 - Travelservice -INFO - Album number105Album name Lisa Swerdlow
+2018-05-10 12:36:16,498 - Travelservice -INFO - Album number106Album name John Calvert
+2018-05-10 12:36:21,688 - Travelservice -INFO - Album number107Album name Darin Mahoney
+2018-05-10 12:36:25,681 - Travelservice -INFO - Album number108Album name Art Patience
+2018-05-10 12:36:29,995 - Travelservice -INFO - Album number109Album name David Wells
+2018-05-10 12:36:34,741 - Travelservice -INFO - Album number110Album name Camille Nelson
+2018-05-10 12:36:40,923 - Travelservice -INFO - Album number111Album name Trialogue
+2018-05-10 12:36:45,470 - Travelservice -INFO - Album number112Album name Michael Kollwitz
+2018-05-10 12:36:51,265 - Travelservice -INFO - Album number113Album name Matthew Mayer
+2018-05-10 12:36:56,056 - Travelservice -INFO - Album number114Album name Philip Shpartov
+2018-05-10 12:36:59,730 - Travelservice -INFO - Album number115Album name Dan Chadburn
+2018-05-10 12:37:05,046 - Travelservice -INFO - Album number116Album name Ken Elkinson
+2018-05-10 12:37:10,455 - Travelservice -INFO - Album number117Album name Holland Phillips
+2018-05-10 12:37:15,916 - Travelservice -INFO - Album number118Album name Rachel Currea
+2018-05-10 12:37:21,937 - Travelservice -INFO - Album number119Album name Michael Kent Smith
+2018-05-10 12:37:28,470 - Travelservice -INFO - Album number120Album name Robert Slap
+2018-05-10 12:37:32,931 - Travelservice -INFO - Album number121Album name Richard Dillon
+2018-05-10 12:37:38,792 - Travelservice -INFO - Album number122Album name Joseph Akins
+2018-05-10 12:37:44,375 - Travelservice -INFO - Album number123Album name Shoshana Michel
+2018-05-10 12:37:49,448 - Travelservice -INFO - Album number124Album name Lynn Tredeau
+2018-05-10 12:37:55,022 - Travelservice -INFO - Album number125Album name Al Jewer Andy Mitran
+2018-05-10 12:38:00,257 - Travelservice -INFO - Album number126Album name Tom Moore/Sherry Finzer
+2018-05-10 12:38:04,910 - Travelservice -INFO - Album number127Album name Ezio Bosso & Filarmonica Teatro La Fenice
+2018-05-10 12:38:09,859 - Travelservice -INFO - Album number128Album name Marion Treupel-Franck
+2018-05-10 12:38:16,869 - Travelservice -INFO - Album number129Album name Various Artists
+2018-05-10 12:38:22,462 - Travelservice -INFO - Album number130Album name Rudolf Buchbinder
+2018-05-10 12:38:28,583 - Travelservice -INFO - Album number131Album name Jonas Kaufmann
+2018-05-10 12:38:36,325 - Travelservice -INFO - Album number132Album name Tina Guo
+2018-05-10 12:38:43,385 - Travelservice -INFO - Album number133Album name Arcadi Volodos
+2018-05-10 12:38:49,454 - Travelservice -INFO - Album number134Album name Natalie Dessay
+2018-05-10 12:38:56,726 - Travelservice -INFO - Album number135Album name Sol Gabetta and Bertrand Chamayou
+2018-05-10 12:39:01,571 - Travelservice -INFO - Album number136Album name 2CELLOS
+2018-05-10 12:39:08,497 - Travelservice -INFO - Album number137Album name Simone Dinnerstein
+2018-05-10 12:39:12,220 - Travelservice -INFO - Album number138Album name The Piano Guys
+2018-05-10 12:39:19,429 - Travelservice -INFO - Album number139Album name Olga Peretyatko, Ural Philharmonic Orchestra & Dimitry Liss
+2018-05-10 12:39:26,368 - Travelservice -INFO - Album number140Album name Natalie Dessay
+2018-05-10 12:39:36,248 - Travelservice -INFO - Album number141Album name Jonas Kaufmann
+2018-05-10 12:39:43,205 - Travelservice -INFO - Album number142Album name Yaara Tal
+2018-05-10 12:39:52,509 - Travelservice -INFO - Album number143Album name Gábor Boldoczki
+2018-05-10 12:39:58,498 - Travelservice -INFO - Album number144Album name Lionel Cottet
+2018-05-10 12:40:06,445 - Travelservice -INFO - Album number145Album name Oliver Schnyder
+2018-05-10 12:40:16,052 - Travelservice -INFO - Album number146Album name Michael Sanderling
+2018-05-10 12:40:20,771 - Travelservice -INFO - Album number147Album name Philippe Cassard
+2018-05-10 12:40:28,754 - Travelservice -INFO - Album number148Album name Sergio Azzolini
+2018-05-10 12:40:35,891 - Travelservice -INFO - Album number149Album name Martin Fröst
+2018-05-10 12:40:41,115 - Travelservice -INFO - Album number150Album name Daria van den Bercken
+2018-05-10 12:40:49,963 - Travelservice -INFO - Album number151Album name Francesco Grillo
+2018-05-10 12:40:59,258 - Travelservice -INFO - Album number152Album name Benjamin Richter
+2018-05-10 12:41:06,190 - Travelservice -INFO - Album number153Album name Teodor Currentzis
+2018-05-10 12:41:09,906 - Travelservice -INFO - Album number154Album name Pretty Yende
+2018-05-10 12:41:17,259 - Travelservice -INFO - Album number155Album name Nils Mönkemeyer
+2018-05-10 12:41:21,858 - Travelservice -INFO - Album number156Album name Leif Ove Andsnes
+2018-05-10 12:41:33,987 - Travelservice -INFO - Album number157Album name Lang Lang
+2018-05-10 12:41:42,700 - Travelservice -INFO - Album number158Album name Olga Scheps
+2018-05-10 12:41:49,692 - Travelservice -INFO - Album number159Album name Baptiste Trotignon & Yosvany Terry
+2018-05-10 12:41:56,410 - Travelservice -INFO - Album number160Album name Weather Report
+2018-05-10 12:42:01,871 - Travelservice -INFO - Album number161Album name Preservation Hall Jazz Band
+2018-05-10 12:42:07,057 - Travelservice -INFO - Album number162Album name Theo Croker
+2018-05-10 12:42:13,979 - Travelservice -INFO - Album number163Album name Thelonious Monk
+2018-05-10 12:42:24,939 - Travelservice -INFO - Album number164Album name Somi
+2018-05-10 12:42:33,045 - Travelservice -INFO - Album number165Album name Bria Skonberg
+2018-05-10 12:42:41,281 - Travelservice -INFO - Album number166Album name Louis Armstrong
+2018-05-10 12:42:54,619 - Travelservice -INFO - Album number167Album name Duke Ellington & His Famous Orchestra
+2018-05-10 12:43:02,462 - Travelservice -INFO - Album number168Album name James Brandon Lewis
+2018-05-10 12:43:08,682 - Travelservice -INFO - Album number169Album name The Bad Plus
+2018-05-10 12:43:15,762 - Travelservice -INFO - Album number170Album name David Orlowsky Trio
+2018-05-10 12:43:23,118 - Travelservice -INFO - Album number171Album name Avishai Cohen
+2018-05-10 12:43:30,378 - Travelservice -INFO - Album number172Album name Herbie Hancock
+2018-05-10 12:43:35,106 - Travelservice -INFO - Album number173Album name Branford Marsalis Quartet
+2018-05-10 12:43:40,812 - Travelservice -INFO - Album number174Album name Weather Report
+2018-05-10 12:43:47,114 - Travelservice -INFO - Album number175Album name Keyon Harrold
+2018-05-10 12:43:54,961 - Travelservice -INFO - Album number176Album name Billie Holiday
+2018-05-10 12:44:05,253 - Travelservice -INFO - Album number177Album name Miles Davis
+2018-05-10 12:44:09,749 - Travelservice -INFO - Album number178Album name Louis Armstrong & His Hot Fives
+2018-05-10 12:44:20,768 - Travelservice -INFO - Album number179Album name Markus Stockhausen
+2018-05-10 12:44:27,455 - Travelservice -INFO - Album number180Album name Charles Mingus
+2018-05-10 12:44:35,688 - Travelservice -INFO - Album number181Album name Dee Dee Bridgewater
+2018-05-10 12:44:44,537 - Travelservice -INFO - Album number182Album name Thelonious Monk
+2018-05-10 12:44:50,341 - Travelservice -INFO - Album number183Album name Stacey Kent
+2018-05-10 12:44:59,823 - Travelservice -INFO - Album number184Album name Benny Goodman and His Orchestra
+2018-05-10 12:45:12,473 - Travelservice -INFO - Album number185Album name Preservation Hall Jazz Band
+2018-05-10 12:45:26,090 - Travelservice -INFO - Album number186Album name Lyambiko
+2018-05-10 12:45:35,625 - Travelservice -INFO - Album number187Album name Duke Ellington & His Washingtonians
+2018-05-10 12:45:47,624 - Travelservice -INFO - Album number188Album name Dave Brubeck
+2018-05-10 12:45:57,176 - Travelservice -INFO - Album number189Album name Dams of the West
+2018-05-10 12:46:03,965 - Travelservice -INFO - Album number190Album name The Shins
+2018-05-10 12:46:11,309 - Travelservice -INFO - Album number191Album name Arcade Fire
+2018-05-10 12:46:20,118 - Travelservice -INFO - Album number192Album name Brian May + Kerry Ellis
+2018-05-10 12:46:29,511 - Travelservice -INFO - Album number193Album name COIN
+2018-05-10 12:46:38,304 - Travelservice -INFO - Album number194Album name Foo Fighters
+2018-05-10 12:46:46,496 - Travelservice -INFO - Album number195Album name David Bowie
+2018-05-10 12:46:51,043 - Travelservice -INFO - Album number196Album name DREAMCAR
+2018-05-10 12:46:59,746 - Travelservice -INFO - Album number197Album name Scouting for Girls
+2018-05-10 12:47:07,227 - Travelservice -INFO - Album number198Album name CRX
+2018-05-10 12:47:14,813 - Travelservice -INFO - Album number199Album name John Mayer
+2018-05-10 12:47:22,791 - Travelservice -INFO - Album number200Album name Foster the People
+2018-05-10 12:47:31,244 - Travelservice -INFO - Album number201Album name Kings of Leon
+2018-05-10 12:47:38,966 - Travelservice -INFO - Album number202Album name The Isley Brothers
+2018-05-10 12:47:47,602 - Travelservice -INFO - Album number203Album name Foo Fighters
+2018-05-10 12:47:57,597 - Travelservice -INFO - Album number204Album name Glassjaw
+2018-05-10 12:48:06,538 - Travelservice -INFO - Album number205Album name David Bowie
+2018-05-10 12:48:17,993 - Travelservice -INFO - Album number206Album name Manic Street Preachers
+2018-05-10 12:48:26,656 - Travelservice -INFO - Album number207Album name Jeff Lynne's ELO
+2018-05-10 12:48:42,024 - Travelservice -INFO - Album number208Album name Toto
+2018-05-10 12:48:53,092 - Travelservice -INFO - Album number209Album name Mallory Knox
+2018-05-10 12:48:58,034 - Travelservice -INFO - Album number210Album name Nothing But Thieves
+2018-05-10 12:49:07,462 - Travelservice -INFO - Album number211Album name Scorpions
+2018-05-10 12:49:19,303 - Travelservice -INFO - Album number212Album name Kasabian
+2018-05-10 12:49:27,236 - Travelservice -INFO - Album number213Album name Roy Orbison
+2018-05-10 12:49:39,544 - Travelservice -INFO - Album number214Album name Arcade Fire
+2018-05-10 12:49:47,758 - Travelservice -INFO - Album number215Album name Kodaline
+2018-05-10 12:49:53,273 - Travelservice -INFO - Album number216Album name Grizzly Bear
+2018-05-10 12:50:01,807 - Travelservice -INFO - Album number217Album name Foster The People
+2018-05-10 12:50:10,466 - Travelservice -INFO - Album number218Album name Cage The Elephant
+2018-05-10 12:50:25,588 - Travelservice -INFO - Album number219Album name Kings Of Leon
+2018-05-10 12:50:34,170 - Travelservice -INFO - Album number220Album name Joe Satriani
+2018-05-10 12:50:44,469 - Travelservice -INFO - Album number221Album name Miranda Lambert
+2018-05-10 12:51:01,256 - Travelservice -INFO - Album number222Album name Ward Thomas
+2018-05-10 12:51:12,085 - Travelservice -INFO - Album number223Album name Jason Aldean
+2018-05-10 12:51:23,191 - Travelservice -INFO - Album number224Album name Old Crow Medicine Show
+2018-05-10 12:51:34,654 - Travelservice -INFO - Album number225Album name Kenny Chesney
+2018-05-10 12:51:43,381 - Travelservice -INFO - Album number226Album name Brad Paisley
+2018-05-10 12:51:56,861 - Travelservice -INFO - Album number227Album name Old Dominion
+2018-05-10 12:52:06,715 - Travelservice -INFO - Album number228Album name Maren Morris
+2018-05-10 12:52:15,682 - Travelservice -INFO - Album number229Album name Luke Combs
+2018-05-10 12:52:26,236 - Travelservice -INFO - Album number230Album name Dolly Parton
+2018-05-10 12:52:36,839 - Travelservice -INFO - Album number231Album name Willie Nelson
+2018-05-10 12:52:47,643 - Travelservice -INFO - Album number232Album name Kelsea Ballerini
+2018-05-10 12:53:00,221 - Travelservice -INFO - Album number233Album name Jessie James Decker
+2018-05-10 12:53:10,581 - Travelservice -INFO - Album number234Album name Waylon Jennings
+2018-05-10 12:53:20,189 - Travelservice -INFO - Album number235Album name Chris Young
+2018-05-10 12:53:29,073 - Travelservice -INFO - Album number236Album name Johnny Cash
+2018-05-10 12:53:39,383 - Travelservice -INFO - Album number237Album name Home Free
+2018-05-10 12:53:50,501 - Travelservice -INFO - Album number238Album name Levon
+2018-05-10 12:53:55,547 - Travelservice -INFO - Album number239Album name Dolly Parton
+2018-05-10 12:54:04,160 - Travelservice -INFO - Album number240Album name Merle Haggard
+2018-05-10 12:54:14,821 - Travelservice -INFO - Album number241Album name The Highwaymen
+2018-05-10 12:54:23,431 - Travelservice -INFO - Album number242Album name Willie Nelson
+2018-05-10 12:54:34,070 - Travelservice -INFO - Album number243Album name Ryan Hurd
+2018-05-10 12:54:39,340 - Travelservice -INFO - Album number244Album name Carrie Underwood
+2018-05-10 12:54:50,307 - Travelservice -INFO - Album number245Album name Russell Dickerson
+2018-05-10 12:55:00,624 - Travelservice -INFO - Album number246Album name Jake Owen
+2018-05-10 12:55:12,151 - Travelservice -INFO - Album number247Album name Miranda Lambert
+2018-05-10 12:55:25,183 - Travelservice -INFO - Album number248Album name Kenny Chesney
+2018-05-10 12:55:48,163 - Travelservice -INFO - Album number249Album name Tim McGraw
+2018-05-10 12:55:59,076 - Travelservice -INFO - Album number250Album name Kane Brown
+2018-05-31 13:02:18,879 - Travelservice -INFO - Browser Opened
+2018-05-31 13:02:18,970 - Travelservice -INFO - Implicit wait given
+2018-05-31 13:03:11,284 - Travelservice -INFO - Browser Opened
+2018-05-31 13:03:11,294 - Travelservice -INFO - Implicit wait given
+2018-05-31 13:19:53,081 - Travelservice -INFO - Browser Opened
+2018-05-31 13:19:53,087 - Travelservice -INFO - Implicit wait given
+2018-05-31 13:21:32,376 - Travelservice -INFO - Browser Opened
+2018-05-31 13:21:32,384 - Travelservice -INFO - Implicit wait given
+2018-05-31 13:23:05,992 - Travelservice -INFO - Browser Opened
+2018-05-31 13:23:06,002 - Travelservice -INFO - Implicit wait given
+2018-05-31 13:23:49,779 - Travelservice -INFO - Browser Opened
+2018-05-31 13:23:49,786 - Travelservice -INFO - Implicit wait given
+2018-05-31 13:27:52,864 - Travelservice -INFO - Browser Opened
+2018-05-31 13:27:52,870 - Travelservice -INFO - Implicit wait given
