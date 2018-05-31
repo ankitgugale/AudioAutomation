@@ -110,8 +110,6 @@ public class TSJavaMovie {
 
 		for (int i = 0; i <= links.size(); i++) {
 
-			
-
 			/*
 			 * We are waiting until clickableBlock will have class
 			 * .click-block-hide
@@ -129,7 +127,6 @@ public class TSJavaMovie {
 			Thread.sleep(1000);
 			WebElement clickableBlock1 = driver.findElement(By.cssSelector(".click-block.click-block-hide"));
 			WebElement movieActionElement = driver.findElement(By.cssSelector(".video-detail__content__actions"));
-		
 
 			WebElement a = driver.findElement(By.cssSelector(".button.button-stable.play-media-button.ng-binding"));
 			a.click();
@@ -146,7 +143,7 @@ public class TSJavaMovie {
 					WebElement onemenu = langSelect.get(j);
 					WebElement menuspan = onemenu.findElement(By.tagName("span"));
 					String nameofmenu = menuspan.getText();
-				
+
 					if (nameofmenu.matches("English") || nameofmenu.matches("English")) {
 						menuspan.click();
 						System.out.println("found!!!");
@@ -156,7 +153,6 @@ public class TSJavaMovie {
 
 				WebElement clickableBlock2 = driver.findElement(
 						By.cssSelector(".button.button-energized.play-media-button.selectLanguage.ng-binding"));
-				
 
 				clickableBlock2.click();
 
@@ -165,13 +161,14 @@ public class TSJavaMovie {
 			Thread.sleep(1500);
 			TSJavaMovie.captureScreenShot(driver);
 			driver.navigate().back();
-			
+
 			// System.out.println("Counter is"+counter);
 			if (counter == links.size()) {
 				driver.get(prop.getProperty("TravelserviceURL"));
 				System.out.println("test case passed");
 				break;
-			}counter++;
+			}
+			counter++;
 		}
 	}
 
@@ -181,8 +178,8 @@ public class TSJavaMovie {
 		try {
 			// now copy the screenshot to desired location using copyFile method
 
-			FileUtils.copyFile(src, new File(
-					"D:\\Eclispe Workspace\\Audio Automation\\Screenshots\\Movie\\MovieJava\\" + System.currentTimeMillis() + ".png"));
+			FileUtils.copyFile(src, new File("D:\\Eclispe Workspace\\Audio Automation\\Screenshots\\Movie\\MovieJava\\"
+					+ System.currentTimeMillis() + ".png"));
 		} catch (IOException e)
 
 		{
