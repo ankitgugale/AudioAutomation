@@ -68,9 +68,26 @@ public class TSJavaMovie {
 		}
 
 		driver.get(prop.getProperty("TravelserviceURL"));// Main URL for the
-															// application
+		Thread.sleep(1000);												// application
 		// Thread.sleep(2000);
+		WebElement VoucherLandingPage = driver.findElement(
+				By.cssSelector(".button.button-energized.voucher.ng-binding"));
 
+		VoucherLandingPage.click();
+	Thread.sleep(1000);	
+		WebElement 	VoucherCode = driver.findElement(By.cssSelector(".ng-pristine.ng-valid.ng-empty.ng-touched"));
+		VoucherCode.sendKeys("0VK5LW-02-QS");
+		
+		WebElement VoucherActivatePage = driver.findElement(
+				By.cssSelector(".button.button-energized.play-media-button.ng-binding"));
+		VoucherActivatePage.click();
+		
+		Thread.sleep(1000);	
+		WebElement VoucherActivatePage1 = driver.findElement(
+				By.cssSelector(".button-menu"));
+		VoucherActivatePage1.click();
+	//	driver.findElement(By.cssSelector("button.button-energized.voucher.ng-binding")).click();
+		Thread.sleep(1000);	
 		WebElement Gridster = driver.findElement(By.className("gridster"));
 		WebElement ULGridster = Gridster.findElement(By.tagName("ul"));
 		List<WebElement> listofmenu = ULGridster.findElements(By.tagName("li"));
